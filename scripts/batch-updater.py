@@ -1,12 +1,15 @@
 import json
 import requests
 from pathlib import Path
-from typing import Optional, List, Literal, Union
+from typing import Optional, Literal
 from pydantic import BaseModel, ValidationError
 from rich.console import Console
+import shutil # Import shutil for moving files
 
 # ---------- Config ----------
-DATA_DIR = Path("./data/output")
+DATA_DIR = Path("./data")
+INPUT_DIR = DATA_DIR / "input"
+OUTPUT_DIR = DATA_DIR / "output"
 ANKI_URL = "http://localhost:8765"
 SUBJECTS = {"ENG", "BENG", "MATH", "GK", "GI"}
 
@@ -69,10 +72,9 @@ def get_note_tags(note_id):
     Fetches the tags for a given note ID.
     Returns a set of tags or an empty set if not found or on error.
     """
-    # Use fetch_result=True to get the actual result data for notesInfo
     info = anki_request("notesInfo", {"notes": [note_id]}, fetch_result=True)
     
-    if info is False or info is None: # anki_request returned False (error) or None (no result data found for some reason)
+    if info is False or info is None:
         return set()
 
     if isinstance(info, list) and info:
@@ -90,25 +92,21 @@ def process_question_tagging(entry: QuestionTagging):
 
     current_tags = get_note_tags(entry.noteId)
     
-    # Check if the primary subject tag (e.g., 'ENG') already exists
     if any(tag.startswith(subject) for tag in current_tags):
         console.print(f"🔄 Replacing existing subject tag with '{entry.newTag}' for note {entry.noteId}", style="bold yellow")
-        # Find the specific old subject tag to replace (e.g., 'ENG' or 'ENG::OldSub')
         old_subject_tag = next((tag for tag in current_tags if tag.startswith(subject)), None)
         if old_subject_tag:
-             # Remove the old tag first to ensure a clean replacement
             remove_success = anki_request("removeTags", {
                 "notes": [entry.noteId],
                 "tags": old_subject_tag
             })
             if not remove_success:
                 return False
-            # Then add the new specific tag
             return anki_request("addTags", {
                 "notes": [entry.noteId],
                 "tags": entry.newTag
             })
-        return False # Should not happen if any tag starts with subject
+        return False
     else:
         console.print(f"➕ Adding tag '{entry.newTag}' to note {entry.noteId}", style="bold green")
         return anki_request("addTags", {
@@ -121,8 +119,6 @@ def process_tag_auditor(entry: TagAuditor):
     Processes a TagAuditor entry to replace one tag with another.
     """
     console.print(f"🔍 Replacing tag '{entry.oldTag}' with '{entry.newTag}' for note {entry.noteId}", style="bold cyan")
-    # AnkiConnect's replaceTags correctly handles cases where oldTag might not exist,
-    # and simply adds newTag if it wasn't there.
     return anki_request("replaceTags", {
         "notes": [entry.noteId],
         "tag_to_replace": entry.oldTag,
@@ -140,10 +136,45 @@ def process_extra(entry: ExtraGenerator, mode: Literal["grammar-explain", "extra
             "fields": {"Extra": entry.Extra}
         }
     }
-    # updateNoteFields returns null on success, so we rely on anki_request's boolean return
     return anki_request("updateNoteFields", params)
 
 # ---------- File Processing ----------
+def chunk_and_delete_file(file_path: Path, output_dir: Path, chunk_size: int = 100):
+    """
+    Chunks a large JSON file into smaller files and deletes the original.
+    """
+    try:
+        with file_path.open('r', encoding='utf-8') as f:
+            data = json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError) as e:
+        console.print(f"❌ Error reading {file_path}: {e}", style="bold red")
+        return
+
+    output_dir.mkdir(parents=True, exist_ok=True)
+
+    chunks = [data[i:i + chunk_size] for i in range(0, len(data), chunk_size)]
+    if not chunks:
+        console.print(f"⚠️ No data to chunk in {file_path}", style="bold yellow")
+        return
+        
+    for i, chunk in enumerate(chunks):
+        chunk_file_path = output_dir / f"{file_path.stem}-chunk-{i+1}.json"
+        try:
+            with chunk_file_path.open('w', encoding='utf-8') as f:
+                json.dump(chunk, f, indent=4)
+            console.print(f"Created chunk: {chunk_file_path}", style="green")
+        except Exception as e:
+            console.print(f"❌ Error creating chunk {chunk_file_path}: {e}", style="bold red")
+            return # Abort if a chunk fails to save
+
+    # Delete the original file after all chunks are created
+    try:
+        if file_path.exists():
+            file_path.unlink()
+            console.print(f"🗑️ Original file deleted: {file_path}", style="bold magenta")
+    except OSError as e:
+        console.print(f"❌ Error deleting original file {file_path}: {e}", style="bold red")
+
 def detect_mode(entries: list) -> Optional[str]:
     """
     Detects the processing mode based on the keys present in the entries.
@@ -151,18 +182,14 @@ def detect_mode(entries: list) -> Optional[str]:
     if not entries:
         return None
 
-    # Check the first entry to infer the mode
     first_entry = entries[0]
     
-    # Question Tagging: has 'newTag' but not 'oldTag'
     if "newTag" in first_entry and "oldTag" not in first_entry and "Extra" not in first_entry:
         if all("noteId" in e and "newTag" in e and "oldTag" not in e and "Extra" not in e for e in entries):
             return "question-tagging"
-    # Tag Auditor: has both 'newTag' and 'oldTag'
     elif "newTag" in first_entry and "oldTag" in first_entry and "Extra" not in first_entry:
         if all("noteId" in e and "newTag" in e and "oldTag" in e and "Extra" not in e for e in entries):
             return "tag-auditor"
-    # Extra Generator / Grammar Explain: has 'Extra'
     elif "Extra" in first_entry and "newTag" not in first_entry and "oldTag" not in first_entry:
         if all("noteId" in e and "Extra" in e and "newTag" not in e and "oldTag" not in e for e in entries):
             return "extra-or-grammar"
@@ -172,27 +199,28 @@ def detect_mode(entries: list) -> Optional[str]:
 def process_files():
     """
     Discovers and processes all output JSON files, updating Anki notes.
+    Deletes both the output and corresponding input files upon successful processing.
     """
-    json_files = sorted(DATA_DIR.glob("output-*.json"))
+    json_files = sorted(OUTPUT_DIR.glob("*.json"))
     if not json_files:
-        console.print("⚠️ No output-*.json files found in ./data/output", style="bold yellow")
+        console.print("⚠️ No JSON files found in ./data/output", style="bold yellow")
         return
 
     for file in json_files:
         console.print(f"\n📂 Processing {file.name}", style="bold cyan")
-        all_success = True # Reset success flag for each file
+        all_success = True
 
         try:
             entries = json.loads(file.read_text(encoding="utf-8"))
             if not isinstance(entries, list) or not entries:
                 console.print(f"❌ Invalid file format or empty file: {file.name}", style="bold red")
-                all_success = False # Mark as failure for this file
+                all_success = False
                 continue
 
             mode = detect_mode(entries)
             if mode is None:
                 console.print(f"⚠️ Could not detect a consistent mode for {file.name}. Skipping file.", style="bold yellow")
-                all_success = False # Mark as failure for this file
+                all_success = False
                 continue
 
             for entry in entries:
@@ -205,31 +233,44 @@ def process_files():
                         obj = TagAuditor(**entry)
                         success = process_tag_auditor(obj)
                     elif mode == "extra-or-grammar":
-                        obj = ExtraGenerator(**entry) # GrammarExplain has same structure
-                        success = process_extra(obj, mode="extra-generator") # Using "extra-generator" as the literal
+                        obj = ExtraGenerator(**entry)
+                        success = process_extra(obj, mode="extra-generator")
                     else:
                         console.print(f"⚠️ Unknown mode '{mode}' for entry {entry}. Skipping.", style="bold yellow")
                         success = False
 
                     if not success:
-                        all_success = False # If any single entry fails, the whole file is marked for retry
+                        all_success = False
 
                 except ValidationError as e:
                     console.print(f"❌ Schema validation failed for entry {entry}: {e}", style="bold red")
-                    all_success = False # Mark as failure for this file
+                    all_success = False
                 except Exception as e:
                     console.print(f"❌ Error processing entry {entry}: {e}", style="bold red")
-                    all_success = False # Mark as failure for this file
+                    all_success = False
 
             if all_success:
-                file.unlink()
-                console.print(f"🗑️ Deleted {file.name} after successful updates", style="bold magenta")
+                # Assuming the input chunk file has the same name as the output chunk file
+                input_file_path = INPUT_DIR / file.name
+
+                try:
+                    if input_file_path.exists():
+                        input_file_path.unlink()
+                        console.print(f"🗑️ Deleted corresponding input chunk file: {input_file_path.name}", style="bold magenta")
+                except OSError as e:
+                    console.print(f"❌ Error deleting input file {input_file_path.name}: {e}", style="bold red")
+
+                # Delete the output chunk file
+                try:
+                    file.unlink()
+                    console.print(f"🗑️ Deleted {file.name} after successful updates", style="bold magenta")
+                except OSError as e:
+                    console.print(f"❌ Error deleting output file {file.name}: {e}", style="bold red")
             else:
                 console.print(f"⏸️ Kept {file.name} for retry due to previous errors", style="bold red")
 
         except json.JSONDecodeError:
             console.print(f"❌ Error decoding JSON from {file.name}. File might be corrupted.", style="bold red")
-            # If JSON is invalid, it's a critical error for this file, so it's kept.
             console.print(f"⏸️ Kept {file.name} for manual inspection", style="bold red")
         except Exception as e:
             console.print(f"❌ Unexpected error while reading/processing {file.name}: {e}", style="bold red")
@@ -237,4 +278,10 @@ def process_files():
 
 # ---------- Entry ----------
 if __name__ == "__main__":
+    # First, handle chunking any large input files
+    large_input_files = INPUT_DIR.glob("*.json")
+    for large_file in large_input_files:
+        chunk_and_delete_file(large_file, OUTPUT_DIR)
+        
+    # Then, process the chunk files in the output directory
     process_files()
