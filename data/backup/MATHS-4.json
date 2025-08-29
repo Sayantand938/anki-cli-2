@@ -1,0 +1,272 @@
+[
+  {
+    "SL": 1,
+    "Question": "Find the average of the following sets of numbers.<br>693, 456, 876, 532, 934, 691, 596, 398, 682",
+    "OP1": "550.50",
+    "OP2": "750.80",
+    "OP3": "650.89",
+    "OP4": "725.90",
+    "Answer": "3"
+  },
+  {
+    "SL": 2,
+    "Question": "The largest three-digit number that gives the same remainder 2 when divided by 3, 5 and 9 is __________",
+    "OP1": "999",
+    "OP2": "984",
+    "OP3": "998",
+    "OP4": "992",
+    "Answer": "4"
+  },
+  {
+    "SL": 3,
+    "Question": "A person can hit a target 5 times out of 8 shots. If he fires 10 shots, what is the probability that he will hit the target twice?",
+    "OP1": "\\(\\frac{1135 \\times 3^8}{8^{10}}\\)",
+    "OP2": "\\(\\frac{1165 \\times 3^8}{8^{10}}\\)",
+    "OP3": "\\(\\frac{1175 \\times 3^8}{8^{10}}\\)",
+    "OP4": "\\(\\frac{1125 \\times 3^8}{8^{10}}\\)",
+    "Answer": "4"
+  },
+  {
+    "SL": 4,
+    "Question": "The angle of elevation of the top of a tower from the top of a building whose height is 680 m is 45° and the angle of elevation of the top of same tower from the foot of the same building is 60°. What is the height (in m) of the tower?",
+    "OP1": "\\(340(3 + \\sqrt{3})\\)",
+    "OP2": "\\(310(3 - \\sqrt{3})\\)",
+    "OP3": "\\(310(3 + \\sqrt{3})\\)",
+    "OP4": "\\(340(3 - \\sqrt{3})\\)",
+    "Answer": "1"
+  },
+  {
+    "SL": 5,
+    "Question": "The median of a set of 11 distinct observations is 73.2. If each of the largest five observations of the set is increased by 3, then the median of the new set:",
+    "OP1": "is 3 times that of the original set",
+    "OP2": "is increased by 3",
+    "OP3": "remains the same as that of the original set",
+    "OP4": "is decreased by 3",
+    "Answer": "3"
+  },
+  {
+    "SL": 6,
+    "Question": "In a trapezium ABCD, AD and BC are parallel to each other with a perpendicular distance of 8 m between them. Also, \\((AB) = (CD) = 10\\) m, and \\((AD) = 15\\) m, \\((AD) < (BC)\\). What is the perimeter (in m) of the trapezium ABCD?",
+    "OP1": "50",
+    "OP2": "66",
+    "OP3": "62",
+    "OP4": "58",
+    "Answer": "3"
+  },
+  {
+    "SL": 7,
+    "Question": "A prism and a pyramid have the same base and the same height. Find the ratio of the volumes of the prism and the pyramid.",
+    "OP1": "2:3",
+    "OP2": "3:1",
+    "OP3": "1:3",
+    "OP4": "3:2",
+    "Answer": "2"
+  },
+  {
+    "SL": 8,
+    "Question": "If \\(x = \\sqrt{64} + \\sqrt{121} - \\sqrt{169}\\), then find the value of \\(x^2\\).",
+    "OP1": "16",
+    "OP2": "25",
+    "OP3": "36",
+    "OP4": "49",
+    "Answer": "3"
+  },
+  {
+    "SL": 9,
+    "Question": "If two LED TVs and one mobile phone cost ₹31,000, while two mobile phones and one LED TV cost ₹35,000, then the value of one mobile phone is:",
+    "OP1": "₹13,500",
+    "OP2": "₹12,500",
+    "OP3": "₹13,000",
+    "OP4": "₹12,000",
+    "Answer": "3"
+  },
+  {
+    "SL": 10,
+    "Question": "What is the volume of a cylinder if the radius of the cylinder is 10 cm and height is 20 cm? (Take \\(\\pi = 3.14\\))",
+    "OP1": "\\(6280\\ cm^3\\)",
+    "OP2": "\\(5306\\ cm^3\\)",
+    "OP3": "\\(6260\\ cm^3\\)",
+    "OP4": "\\(5280\\ cm^3\\)",
+    "Answer": "1"
+  },
+  {
+    "SL": 11,
+    "Question": "P, Q, and R can finish a work in 5 days, 10 days, and 15 days, respectively, working alone. P and Q work on the first day, P and R work on the second day and P and Q work on the third day, and so on till the work is completed. In how many days the work will be completed?",
+    "OP1": "\\(\\frac{13}{2}\\)",
+    "OP2": "\\(\\frac{9}{2}\\)",
+    "OP3": "\\(\\frac{7}{2}\\)",
+    "OP4": "\\(\\frac{15}{2}\\)",
+    "Answer": "3"
+  },
+  {
+    "SL": 12,
+    "Question": "A goods train 350 m long passes through a tunnel of length 1250 m in 80 seconds. What is the speed of the train?",
+    "OP1": "64 km/h",
+    "OP2": "56 km/h",
+    "OP3": "78 km/h",
+    "OP4": "72 km/h",
+    "Answer": "4"
+  },
+  {
+    "SL": 13,
+    "Question": "If one of the interior angles of a regular polygon is \\(\\frac{15}{16}\\) times of one of the interior angles of a regular decagon, then find the number of diagonals of the polygon.",
+    "OP1": "20",
+    "OP2": "14",
+    "OP3": "2",
+    "OP4": "35",
+    "Answer": "1"
+  },
+  {
+    "SL": 14,
+    "Question": "If the four-digit number 463y is divisible by 7, then what is the value of y?",
+    "OP1": "4",
+    "OP2": "6",
+    "OP3": "3",
+    "OP4": "5",
+    "Answer": "1"
+  },
+  {
+    "SL": 15,
+    "Question": "If \\(a \\cot \\theta + b \\csc \\theta = p\\) and \\(b \\cot \\theta + a \\csc \\theta = q\\) then \\(p^2 - q^2\\) is equal to __________",
+    "OP1": "\\(b^2 - a^2\\)",
+    "OP2": "\\(a^2 - b^2\\)",
+    "OP3": "b - a",
+    "OP4": "\\(a^2 + b^2\\)",
+    "Answer": "1"
+  },
+  {
+    "SL": 16,
+    "Question": "PQRS is a cyclic quadrilateral. If \\(\\angle P\\) is three times of \\(\\angle R\\) and \\(\\angle S\\) is four times of \\(\\angle Q\\), then the sum of \\(\\angle S + \\angle R\\) will be:",
+    "OP1": "\\(169^{\\circ}\\)",
+    "OP2": "\\(171^{\\circ}\\)",
+    "OP3": "\\(187^{\\circ}\\)",
+    "OP4": "\\(189^{\\circ}\\)",
+    "Answer": "4"
+  },
+  {
+    "SL": 17,
+    "Question": "Working for 10 hours per day, 6 men can build a wall in a certain number of days. By working for how many hours per day can 12 men build the wall in the same days?",
+    "OP1": "7 hours 30 minutes",
+    "OP2": "5 hours",
+    "OP3": "20 hours",
+    "OP4": "10 hours",
+    "Answer": "2"
+  },
+  {
+    "SL": 18,
+    "Question": "If \\(2^x + 3^y = 17\\) and \\(2^{x + 2} - 3^{y + 1} = 5\\), then :",
+    "OP1": "x = 1, y = 3",
+    "OP2": "x = 3, y = 3",
+    "OP3": "x = 3, y = 2",
+    "OP4": "x = 1, y = 2",
+    "Answer": "3"
+  },
+  {
+    "SL": 19,
+    "Question": "What is the mode of the given data?<br>5, 7, 9, 7, 3, 7, 5, 7, 8, 6, 7",
+    "OP1": "7",
+    "OP2": "6",
+    "OP3": "5",
+    "OP4": "3",
+    "Answer": "1"
+  },
+  {
+    "SL": 20,
+    "Question": "Which of the following numbers is divisible by 11?",
+    "OP1": "5214341",
+    "OP2": "5648741",
+    "OP3": "6598321",
+    "OP4": "2378965",
+    "Answer": "1"
+  },
+  {
+    "SL": 21,
+    "Question": "It is given that \\(\\triangle ABC \\cong \\triangle PQR\\), AB = 5 cm, \\(\\angle B = 40^{\\circ}\\), and \\(\\angle A = 80^{\\circ}\\). Which of the following options is true?",
+    "OP1": "PQ = 5 cm and \\(\\angle R = 60^{\\circ}\\)",
+    "OP2": "QR = 5 cm and \\(\\angle R = 60^{\\circ}\\)",
+    "OP3": "QR = 5 cm and \\(\\angle Q = 60^{\\circ}\\)",
+    "OP4": "PQ = 5 cm and \\(\\angle P = 60^{\\circ}\\)",
+    "Answer": "1"
+  },
+  {
+    "SL": 22,
+    "Question": "How many kilogram of rice costing Rs. 60 per kg must be mixed with 24 kg of rice costing Rs. 42 per kg so that there may be a gain of 12% by selling the mixture at Rs. 56 per kg?",
+    "OP1": "22 kg",
+    "OP2": "20 kg",
+    "OP3": "19.2 kg",
+    "OP4": "21.2 kg",
+    "Answer": "3"
+  },
+  {
+    "SL": 23,
+    "Question": "At a clearance sale, a shopkeeper gives 45% discount. If a customer paid ₹330 during the sale, then what is the marked price of that shirt?",
+    "OP1": "₹550",
+    "OP2": "₹600",
+    "OP3": "₹500",
+    "OP4": "₹650",
+    "Answer": "2"
+  },
+  {
+    "SL": 24,
+    "Question": "If 20% of (A + B) = 30% of (A - B), then what percentage of B is equal to A?",
+    "OP1": "400%",
+    "OP2": "300%",
+    "OP3": "500%",
+    "OP4": "100%",
+    "Answer": "3"
+  },
+  {
+    "SL": 25,
+    "Question": "Find the coordinates of the points where the graph 57x - 19y = 399 cuts the coordinate axes.",
+    "OP1": "x-axis at(-7, 0) and y-axis at (0, -21)",
+    "OP2": "x-axis at(-7, 0) and y-axis at (0, 21)",
+    "OP3": "x-axis at (7, 0) and y-axis at (0, -21)",
+    "OP4": "x-axis at (7, 0) and y-axis at (0, 21)",
+    "Answer": "3"
+  },
+  {
+    "SL": 26,
+    "Question": "Rajnish borrowed ₹1,500 from a bank and repaid the entire amount with interest in two equal annual instalments, the first instalment being paid a year after Rajnish borrowed from the bank. If the rate of interest was 40% per annum, compounded annually, then what was the value (in ₹) of each instalment paid by Rajnish?",
+    "OP1": "1125",
+    "OP2": "1470",
+    "OP3": "1225",
+    "OP4": "1350",
+    "Answer": "3"
+  },
+  {
+    "SL": 27,
+    "Question": "A sum triple itself in 9 years at simple interest. Find the rate of interest per annum is.",
+    "OP1": "\\(38\\frac{2}{9}\\%\\)",
+    "OP2": "\\(33\\frac{1}{3}\\%\\)",
+    "OP3": "\\(27\\frac{1}{9}\\%\\)",
+    "OP4": "\\(22\\frac{2}{9}\\%\\)",
+    "Answer": "4"
+  },
+  {
+    "SL": 28,
+    "Question": "A starts a business with ₹75,000 and B joins the business 5 months later with an investment of ₹80,000. After 1 year, they earn a profit of ₹4,08,800. Find the share of A and B (in ₹).",
+    "OP1": "2,52,000 and 1,56,800",
+    "OP2": "2,50,000 and 1,58,800",
+    "OP3": "2,48,000 and 1,60,800",
+    "OP4": "2,49,500 and 1,59,300",
+    "Answer": "1"
+  },
+  {
+    "SL": 29,
+    "Question": "\\((\\sin \\theta + \\csc \\theta)^2 + (\\cos \\theta + \\sec \\theta)^2 = ?\\)",
+    "OP1": "\\(5 + \\tan^2\\theta + \\cot^2\\theta\\)",
+    "OP2": "\\(7 + \\tan^2\\theta - \\cot^2\\theta\\)",
+    "OP3": "\\(7 + \\tan^2\\theta + \\cot^2\\theta\\)",
+    "OP4": "\\(5 + \\tan^2\\theta - \\cot^2\\theta\\)",
+    "Answer": "3"
+  },
+  {
+    "SL": 30,
+    "Question": "The value of \\(\\frac{0.7 \\times 0.7 \\times 0.7 + 0.3 \\times 0.3 \\times 0.3}{0.7 \\times 0.7 - 0.7 \\times 0.3 + 0.3 \\times 0.3}\\) is",
+    "OP1": "2",
+    "OP2": "1",
+    "OP3": "3",
+    "OP4": "-1",
+    "Answer": "2"
+  }
+]

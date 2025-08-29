@@ -1,0 +1,272 @@
+[
+  {
+    "SL": 1,
+    "Question": "The average of 25, 46 and 'y' is 11. What is the value of 'y'?",
+    "OP1": "-38",
+    "OP2": "-34",
+    "OP3": "-36",
+    "OP4": "-37",
+    "Answer": "1"
+  },
+  {
+    "SL": 2,
+    "Question": "From the top of a tower, the angle of depression of the top of a 10 m high building is \\(60^\\circ\\). If the distance between the tower and the building is \\(50\\sqrt{3}\\) m, find the height of the tower.",
+    "OP1": "150 m",
+    "OP2": "100 m",
+    "OP3": "160 m",
+    "OP4": "140 m",
+    "Answer": "3"
+  },
+  {
+    "SL": 3,
+    "Question": "A merchant fixes the sale price of his goods at 42% above the cost price. He sells his goods at a 15% discount marked price. His percentage of profit (rounded off to the nearest integer) is:",
+    "OP1": "21%",
+    "OP2": "42%",
+    "OP3": "35%",
+    "OP4": "27%",
+    "Answer": "1"
+  },
+  {
+    "SL": 4,
+    "Question": "A set of data presented in the form of a frequency distribution table with class intervals and their respective frequencies had a mode of 48.5. The lower boundary of the modal class was 46.5; the frequency of the modal class was 34; the frequency of the class interval just preceding the modal class was 32 and the frequency of the class interval just succeeding the modal class was 25. What was the width of the modal class?",
+    "OP1": "12",
+    "OP2": "10.5",
+    "OP3": "11",
+    "OP4": "10",
+    "Answer": "3"
+  },
+  {
+    "SL": 5,
+    "Question": "An equilateral triangle ABC surmounts a square BCDE. The value of \\(\\angle EAB + 3\\angle AEB\\) is:",
+    "OP1": "\\(60^\\circ\\)",
+    "OP2": "\\(80^\\circ\\)",
+    "OP3": "\\(280^\\circ\\)",
+    "OP4": "\\(240^\\circ\\)",
+    "Answer": "1"
+  },
+  {
+    "SL": 6,
+    "Question": "The marks obtained by 15 students out of a maximum of 25 in a test are given as 13, 11, 16, 15, 18, 12, 13, 14, 10, 22, 15, 21, 20, 17 and 24. Find the product of the modes of this set of data.",
+    "OP1": "192",
+    "OP2": "210",
+    "OP3": "182",
+    "OP4": "195",
+    "Answer": "4"
+  },
+  {
+    "SL": 7,
+    "Question": "Two friends A and B started a business by investing Rs. 1,50,000 and Rs. 2,50,000, respectively. They agreed to distribute their earnings in the same ratio of their investments. After an year, the profit earned was Rs. 6,00,000. Each of them added Rs. 50,000 to their respective profits and invested in a different project. If this project gave an yield of Rs. 4,20,000, then A's share in the profit is:",
+    "OP1": "Rs. 2,35,000",
+    "OP2": "Rs. 1,65,000",
+    "OP3": "Rs. 1,97,000",
+    "OP4": "Rs. 1,84,000",
+    "Answer": "2"
+  },
+  {
+    "SL": 8,
+    "Question": "The ratio of the length, width and height of a closed cuboid is given as 6 : 3 : 2. The total surface area of this cuboid is given as \\(1800\\ cm^2\\). Find the volume (in \\(cm^3\\)) of this cuboid.",
+    "OP1": "4650",
+    "OP2": "4800",
+    "OP3": "4500",
+    "OP4": "4200",
+    "Answer": "3"
+  },
+  {
+    "SL": 9,
+    "Question": "B purchased 15 kg apples at the rate of Rs. 180 per kg from a wholesaler who uses a weight of 950 grams for the kg weight. B sold all these apples at Rs. 180 per kg but used a weight of 750 grams for the kg weight. Find the percentage profit earned by B in the transaction (correct to 2 places of decimal).",
+    "OP1": "22.55%",
+    "OP2": "25.75%",
+    "OP3": "33.33%",
+    "OP4": "26.67%",
+    "Answer": "4"
+  },
+  {
+    "SL": 10,
+    "Question": "If \\(P(A \\cup B) = \\frac{5}{8}\\), \\(P(\\bar{A} \\cup \\bar{B}) = \\frac{13}{27}\\), \\(P(A) = \\frac{11}{18}\\), then the odds against the event B are:",
+    "OP1": "\\(\\frac{38}{17}\\)",
+    "OP2": "\\(\\frac{7}{57}\\)",
+    "OP3": "\\(\\frac{29}{25}\\)",
+    "OP4": "\\(\\frac{47}{7}\\)",
+    "Answer": "3"
+  },
+  {
+    "SL": 11,
+    "Question": "The average weight of the first thirteen persons among fourteen persons is 78 kg. The weight of the 14th person is 39 kg more than the average weight of all the fourteen persons. Find the weight of the 14th person.",
+    "OP1": "118 kg",
+    "OP2": "98 kg",
+    "OP3": "110 kg",
+    "OP4": "120 kg",
+    "Answer": "4"
+  },
+  {
+    "SL": 12,
+    "Question": "What is the single discount equivalent to the successive discounts of 20%, 35%, and 10%?",
+    "OP1": "53.2%",
+    "OP2": "65.4%",
+    "OP3": "48.7%",
+    "OP4": "42.3%",
+    "Answer": "1"
+  },
+  {
+    "SL": 13,
+    "Question": "Three cards are drawn one after another with replacement from a pack of cards. What is the probability of getting first card a Jack, second card a black card, and third card an even numbered card?",
+    "OP1": "\\(\\frac{5}{338}\\)",
+    "OP2": "\\(\\frac{20}{338}\\)",
+    "OP3": "\\(\\frac{25}{26}\\)",
+    "OP4": "\\(\\frac{5}{169}\\)",
+    "Answer": "1"
+  },
+  {
+    "SL": 14,
+    "Question": "At a certain time in a park, the number of heads and the number of legs of monkeys and human visitors were counted, and it was found that there were 54 heads and 148 legs. Find the number of monkeys in the park.",
+    "OP1": "20",
+    "OP2": "16",
+    "OP3": "18",
+    "OP4": "14",
+    "Answer": "1"
+  },
+  {
+    "SL": 15,
+    "Question": "Vipin travels one-third of the distance of a journey at a speed of 30 km/h and the remaining distance at a speed of 40 km/h. If he took a total of 12 hours to complete the journey, what was the total distance (in km) of the journey?",
+    "OP1": "432",
+    "OP2": "450",
+    "OP3": "445",
+    "OP4": "412",
+    "Answer": "1"
+  },
+  {
+    "SL": 16,
+    "Question": "80 litres of a mixture of spirit and water in the ratio 7 : 9 is present in a container A. 20 litres of the mixture is transferred to another container B. Then the container A is filled with 20 litres of water. Then 32 litres of the mixture is again transferred to container B. The ratio of water to spirit of the mixture in container B is equal to:",
+    "OP1": "41 : 87",
+    "OP2": "87 : 41",
+    "OP3": "131 : 77",
+    "OP4": "77 : 131",
+    "Answer": "3"
+  },
+  {
+    "SL": 17,
+    "Question": "A solid cube, whose each edge is of length 48 cm, is melted. Identical solid cubes, each of volume \\(64\\ cm^3\\), are made out of this molten cube, without any wastage. How many such small cubes are obtained?",
+    "OP1": "1728",
+    "OP2": "1718",
+    "OP3": "1748",
+    "OP4": "1738",
+    "Answer": "1"
+  },
+  {
+    "SL": 18,
+    "Question": "What is the value of \\([\\frac{1}{6} + \\{(\\frac{36}{45} \\div \\frac{24}{25}) - (\\frac{12}{15} \\times \\frac{14}{45} \\div \\frac{24}{27})\\} + \\frac{2}{36}]\\) ?",
+    "OP1": "\\(\\frac{1}{36}\\)",
+    "OP2": "\\(\\frac{1}{72}\\)",
+    "OP3": "\\(\\frac{1}{108}\\)",
+    "OP4": "\\(\\frac{1}{27}\\)",
+    "Answer": "2"
+  },
+  {
+    "SL": 19,
+    "Question": "Two pillars of equal height stand on either side of a roadway which is 150 m wide. At a point in the road between pillars, the elevations of the pillars are \\(x^\\circ\\) and \\(y^\\circ\\) so that \\(\\tan x^\\circ = \\frac{2}{5}\\), \\(\\tan y^\\circ = \\frac{3}{5}\\), then the height of each pillar is:",
+    "OP1": "39 m",
+    "OP2": "36 m",
+    "OP3": "42 m",
+    "OP4": "33 m",
+    "Answer": "2"
+  },
+  {
+    "SL": 20,
+    "Question": "The cost of 2 pencils and 3 pens is Rs. 55 and the cost of 7 pencils and 2 pens is Rs. 65. What is the total price (in Rs.) of one pen and one pencil?",
+    "OP1": "15",
+    "OP2": "25",
+    "OP3": "12",
+    "OP4": "20",
+    "Answer": "4"
+  },
+  {
+    "SL": 21,
+    "Question": "If P : Q = 3 : 4 and Q : R = 4 : 7, then find the value of (P + Q) : (Q + R) : (R + P).",
+    "OP1": "11 : 4 : 7",
+    "OP2": "10 : 3 : 11",
+    "OP3": "3 : 4 : 7",
+    "OP4": "7 : 11 : 10",
+    "Answer": "4"
+  },
+  {
+    "SL": 22,
+    "Question": "A six-digit number 11p9q4 is divisible by 24. Then the greatest possible value for pq is:",
+    "OP1": "56",
+    "OP2": "68",
+    "OP3": "42",
+    "OP4": "32",
+    "Answer": "1"
+  },
+  {
+    "SL": 23,
+    "Question": "The compound interest on Rs. 10,000 at 20% per annum is Rs. 4,641. If the compounding is done half-yearly, then for how many years was the sum invested?",
+    "OP1": "4",
+    "OP2": "6",
+    "OP3": "3",
+    "OP4": "2",
+    "Answer": "4"
+  },
+  {
+    "SL": 24,
+    "Question": "Hari, Kamal and Lalit contested an election in which 6050 votes were polled and none of the votes were invalid. Kamal got 42% more votes than the total votes obtained by Hari and Lalit together. If Lalit obtained only 8% of the total polled votes, find the number of votes obtained by Hari.",
+    "OP1": "2016",
+    "OP2": "1668",
+    "OP3": "1912",
+    "OP4": "1556",
+    "Answer": "1"
+  },
+  {
+    "SL": 25,
+    "Question": "A and B can complete a job together in 12.5 days; B and C can complete the same job together in 18.75 days, while C and A can complete the same job together in 15 days. In how many days will A, B and C together be able to complete the same job alongside D, who is only 40% as efficient as C?",
+    "OP1": "\\(9\\frac{1}{3}\\)",
+    "OP2": "\\(9\\frac{2}{3}\\)",
+    "OP3": "\\(9\\frac{7}{27}\\)",
+    "OP4": "\\(9\\frac{17}{27}\\)",
+    "Answer": "3"
+  },
+  {
+    "SL": 26,
+    "Question": "The average age of A, B and C is 20 years. Two years ago the sum of the ages of A and B was 6 more than that of C. Find the present age of C.",
+    "OP1": "25 years",
+    "OP2": "29 years",
+    "OP3": "28 years",
+    "OP4": "26 years",
+    "Answer": "4"
+  },
+  {
+    "SL": 27,
+    "Question": "Find the value of \\(\\frac{\\sqrt{1.24} \\times \\sqrt{2.79}}{\\sqrt{2.64} \\times \\sqrt{5.94}}\\)",
+    "OP1": "\\(\\frac{31}{66}\\)",
+    "OP2": "\\(\\frac{31}{44}\\)",
+    "OP3": "\\(\\frac{33}{64}\\)",
+    "OP4": "\\(\\frac{33}{31}\\)",
+    "Answer": "1"
+  },
+  {
+    "SL": 28,
+    "Question": "If \\(A = \\frac{58^2 - 25^2}{46^2 - 37^2}, B = \\frac{26^2 - 15^2}{56^2 - 15^2}\\), then the value of \\(\\frac{1}{B} - \\frac{20}{A}\\) is:",
+    "OP1": "2",
+    "OP2": "1",
+    "OP3": "-1",
+    "OP4": "0",
+    "Answer": "2"
+  },
+  {
+    "SL": 29,
+    "Question": "The simple interest earned on Rs. 2,800 at a rate of 10% per annum for 3 years is Rs. x and Rs. 1,736 is the simple interest earned on Rs. 6,200 at a rate of 14% for y years, then the value of x/y is:",
+    "OP1": "140",
+    "OP2": "380",
+    "OP3": "550",
+    "OP4": "420",
+    "Answer": "4"
+  },
+  {
+    "SL": 30,
+    "Question": "One chord of a circle is given as 20.5 cm. Then the radius (r) of the circle must be:",
+    "OP1": "\\(r = 10\\ cm\\)",
+    "OP2": "\\(r < 10.25\\)",
+    "OP3": "\\(r > 10.25\\)",
+    "OP4": "\\(r \\ge 10.25\\)",
+    "Answer": "4"
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "SL": 31,
+    "Question": "In this question, two statements are followed by four conclusions given as options. Decide which conclusion is definitely true, based on the given statements.<br>Statements:<br>\\(A < B \\ge C > D\\)<br>\\(C > E \\ge F = G\\)",
+    "OP1": "\\(A < E\\)",
+    "OP2": "\\(D < F\\)",
+    "OP3": "\\(G > C\\)",
+    "OP4": "\\(B > G\\)",
+    "Answer": "4"
+  },
+  {
+    "SL": 32,
+    "Question": "A question is given, followed by two statements labelled I and II. Identify which of the statements is/are sufficient/necessary to answer the question.<br>Question:<br>In a certain code language, 'fire in mountain' is coded as 'si ph bo'. What is code for 'fire'?<br>Statements:<br>(I) 'mountain' is coded as 'bo'.<br>(II) 'ice and fire' is coded as 'si yu ca'.",
+    "OP1": "Data in Statements I and II together is sufficient to answer the question",
+    "OP2": "Data in Statements I and II together is not sufficient to answer the question",
+    "OP3": "Data in Statement I alone is sufficient to answer the question while data in Statement II is not",
+    "OP4": "Data in Statement II alone is sufficient to answer the question while data in Statement I is not",
+    "Answer": "4"
+  },
+  {
+    "SL": 33,
+    "Question": "Select the option figure in which the given figure is embedded as its part (rotation is NOT allowed).<br><image content>",
+    "OP1": "<image content>",
+    "OP2": "<image content>",
+    "OP3": "<image content>",
+    "OP4": "<image content>",
+    "Answer": "4"
+  },
+  {
+    "SL": 34,
+    "Question": "Given below is a statement (Cause) followed by possible effects numbered I, II and III. Read the 'Cause' carefully and decide which of the three can be possible effect/s.<br>Cause - Many people in City X have reported receiving two electricity bills this month, instead of one.<br>Effect I - The Electricity Board has published the details of areas where power shutdowns are expected tomorrow in City X.<br>Effect II - The municipal commissioner of City X has clarified that the technical glitch which led to multiple electricity bills being generated would be resolved within 48 hours.<br>Effect III - Long queues were seen outside the electricity board offices in many localities.",
+    "OP1": "Only II is a possible effect.",
+    "OP2": "Both I and II are possible effects .",
+    "OP3": "Only I is a possible effect.",
+    "OP4": "Both II and III are possible effects.",
+    "Answer": "4"
+  },
+  {
+    "SL": 35,
+    "Question": "In a certain code language, 'POSE' is coded as '3517' and 'SILK' is coded as '4638'. What is the code for 'S' in the given code language?",
+    "OP1": "4",
+    "OP2": "1",
+    "OP3": "8",
+    "OP4": "3",
+    "Answer": "4"
+  },
+  {
+    "SL": 36,
+    "Question": "Select the correct mirror image of the given combination when the mirror is placed at line MN as shown.<br><image content>",
+    "OP1": "<image content>",
+    "OP2": "<image content>",
+    "OP3": "<image content>",
+    "OP4": "<image content>",
+    "Answer": "1"
+  },
+  {
+    "SL": 37,
+    "Question": "Figure A is related to B in a certain pattern. Following the same pattern, figure C is related to D. Study the pattern and select the figure which should be in place of D.<br><image content>",
+    "OP1": "<image content>",
+    "OP2": "<image content>",
+    "OP3": "<image content>",
+    "OP4": "<image content>",
+    "Answer": "2"
+  },
+  {
+    "SL": 38,
+    "Question": "Select the option figure that will replace the question mark (?) in the figure given below to complete the pattern.<br><image content>",
+    "OP1": "<image content>",
+    "OP2": "<image content>",
+    "OP3": "<image content>",
+    "OP4": "<image content>",
+    "Answer": "2"
+  },
+  {
+    "SL": 39,
+    "Question": "Select the set in which the numbers are related in the same way as are the numbers of the following sets.<br>(NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 - Operations on 13 such as adding/subtracting/multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)<br>(215, 185, 135)<br>(276, 246, 196)",
+    "OP1": "(255, 235, 205)",
+    "OP2": "(294, 264, 224)",
+    "OP3": "(269, 229, 199)",
+    "OP4": "(238, 208, 158)",
+    "Answer": "4"
+  },
+  {
+    "SL": 40,
+    "Question": "How many meaningful English words can be formed using first, third, sixth and seventh letters of the word RECOGNIZE (when counted from left to right) using all the letters but each letter only once in each word?",
+    "OP1": "One",
+    "OP2": "Two",
+    "OP3": "Three",
+    "OP4": "None",
+    "Answer": "1"
+  },
+  {
+    "SL": 41,
+    "Question": "The following contains two pairs of words which are related to each other in a certain way. Three of the following four word-pairs are alike as these have the same relationship and thus form a group. Which word-pair does NOT belong to that group? (The words must be considered as meaningful English words and must not be grouped based on the number of letters/number of consonants/vowels in the word).",
+    "OP1": "Park - Swim",
+    "OP2": "Restaurant - Dinner",
+    "OP3": "Temple - Pray",
+    "OP4": "Theatre - Movies",
+    "Answer": "1"
+  },
+  {
+    "SL": 42,
+    "Question": "Read the following information and answer the question which follows.<br>\"Similar to expert puzzle solvers, Solver S employs systematic problem solving approaches, ensuring efficient and accurate resolutions to complex challenges.\"<br>Which of the following can be inferred from the given statement? (An inference is something which is not directly stated but can be derived from the given facts/information in the statement)<br>1. The efficiency and accuracy of Solver S in resolving complex challenges may be attributed to their systematic problem-solving methods.<br>2. Solver S utilizes systematic problem-solving approaches, similar to expert puzzle solvers.",
+    "OP1": "Both (I) and (II) can be inferred.",
+    "OP2": "Only (I) can be inferred.",
+    "OP3": "Neither (I) nor (II) can be inferred.",
+    "OP4": "Only (II) can be inferred.",
+    "Answer": "2"
+  },
+  {
+    "SL": 43,
+    "Question": "U is the father of N. N is the sister of T. T is the wife of I. I is son of L. How is U related to L?",
+    "OP1": "Son's wife's father",
+    "OP2": "Son's wife",
+    "OP3": "Son's wife's sister",
+    "OP4": "Son's wife's mother",
+    "Answer": "1"
+  },
+  {
+    "SL": 44,
+    "Question": "Select the correct option that indicates the arrangement of the following words in a logical and meaningful order.<br>1. Design<br>2. Test<br>3. Conceptualize<br>4. Develop<br>5. Implement",
+    "OP1": "3, 5, 2, 4, 1",
+    "OP2": "1, 4, 5, 3, 2",
+    "OP3": "3, 1, 4, 2, 5",
+    "OP4": "3, 1, 5, 4, 2",
+    "Answer": "3"
+  },
+  {
+    "SL": 45,
+    "Question": "Select the correct option that indicates the arrangement of the following words in a logical and meaningful order.<br>1. Delivery<br>2. Finished Paper<br>3. Dry<br>4. Pulp<br>5. Press",
+    "OP1": "4, 5, 3, 2, 1",
+    "OP2": "4, 1, 2, 5, 3",
+    "OP3": "2, 5, 4, 3, 1",
+    "OP4": "5, 4, 2, 3, 1",
+    "Answer": "1"
+  },
+  {
+    "SL": 46,
+    "Question": "Select the number from among the given options that can replace the question mark (?) in the following series.<br>9, 5, 6, 10.5, 23, ?",
+    "OP1": "90",
+    "OP2": "80",
+    "OP3": "60",
+    "OP4": "50",
+    "Answer": "3"
+  },
+  {
+    "SL": 47,
+    "Question": "Each of P, Q, R, S, T, U and V has an exam on a different day of a week, starting from Monday and ending on Sunday of the same week. Q has the exam on Saturday. Only two people have exams between S and Q. R has the exam before S, but after P. U has the exam immediately after T. On which of the following days does V have the exam?",
+    "OP1": "Saturday",
+    "OP2": "Thursday",
+    "OP3": "Sunday",
+    "OP4": "Friday",
+    "Answer": "3"
+  },
+  {
+    "SL": 48,
+    "Question": "In a certain code language,<br>A + B means 'A is the mother of B',<br>A - B means 'A is the brother of B',<br>A × B means 'A is the wife of B' and<br>A ÷ B means 'A is the father of B'.<br>Based on the above, how is U related to Z if 'U + V ÷ W - Y × Z'",
+    "OP1": "Wife's Mother's Sister",
+    "OP2": "Wife's Father's Mother",
+    "OP3": "Wife's Mother's Mother",
+    "OP4": "Wife's Father's Sister",
+    "Answer": "2"
+  },
+  {
+    "SL": 49,
+    "Question": "Four of the following five figures are alike in a certain way and thus form a group. Which is the one that does NOT belong to that group?<br><image content>",
+    "OP1": "C",
+    "OP2": "D",
+    "OP3": "E",
+    "OP4": "A",
+    "Answer": "1"
+  },
+  {
+    "SL": 50,
+    "Question": "Identify the figure given in the options which when put in place of the question mark (?) will logically complete the series.<br><image content>",
+    "OP1": "<image content>",
+    "OP2": "<image content>",
+    "OP3": "<image content>",
+    "OP4": "<image content>",
+    "Answer": "1"
+  },
+  {
+    "SL": 51,
+    "Question": "In the following number-pairs, the second number is obtained by applying certain mathematical operations to the first number. In three of the four pairs, the same pattern is applied and hence they form a group. Select the number-pair that does NOT belong to this group.<br>(NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 - Operations on 13 such as adding /subtracting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)",
+    "OP1": "13-144",
+    "OP2": "31-341",
+    "OP3": "18-198",
+    "OP4": "22-242",
+    "Answer": "1"
+  },
+  {
+    "SL": 52,
+    "Question": "A question is given, followed by two statements labelled I and II. Identify which of the statements is/are sufficient/necessary to answer the question.<br>Question:<br>Arvind has blue, green and white marbles. What is the percentage of white marbles out of all the marbles he has?<br>Statements:<br>(I) The sum of blue and green marbles he has is 7.<br>(II) He has 3 white marbles out of 10 marbles.",
+    "OP1": "Data in Statement II alone is sufficient to answer the question while data in Statement I is not",
+    "OP2": "Data in Statement I alone is sufficient to answer the question while data in Statement II is not",
+    "OP3": "Data in Statements I and II together is sufficient to answer the question",
+    "OP4": "Data in Statements I and II together is not sufficient to answer the question",
+    "Answer": "1"
+  },
+  {
+    "SL": 53,
+    "Question": "Six letters P, Q, S, T, U and V are written on different faces of a dice. Two positions of this dice are shown in the figure. Find the letter on the face opposite to T.<br><image content>",
+    "OP1": "S",
+    "OP2": "U",
+    "OP3": "V",
+    "OP4": "P",
+    "Answer": "4"
+  },
+  {
+    "SL": 54,
+    "Question": "If 'A' stands for '+', 'B' stands for '×', 'C' stands for '÷' and 'D' stands for '-', what will be come in place of the question mark (?) in the following equation?<br>55 B 5 D 13 B 2 C 14 A 7 D 15 B 5 C 102 A 2 C 15 = ?",
+    "OP1": "203",
+    "OP2": "242",
+    "OP3": "291",
+    "OP4": "177",
+    "Answer": "2"
+  },
+  {
+    "SL": 55,
+    "Question": "Each of the digits in the number 5238641 is arranged in ascending order from left to right. The position(s) of how many digits will remain unchanged as compared to that/those in the original number?",
+    "OP1": "None",
+    "OP2": "Two",
+    "OP3": "Three",
+    "OP4": "One",
+    "Answer": "2"
+  },
+  {
+    "SL": 56,
+    "Question": "A statement is followed by two arguments I and II. Read the statement and the arguments carefully and select the appropriate answer from the given options.<br>Statement:<br>Hydroelectricity is a cleaner and greener energy than other forms of power generation.<br>Arguments:<br>(I) Hydroelectric plants almost have nil \\(CO_2\\) emissions.<br>(II) Hydroelectric power projects submerge huge amounts under water thereby affecting local flora and fauna.",
+    "OP1": "Both I and II weaken the statement.",
+    "OP2": "II weakens while I strengthens the statement.",
+    "OP3": "Both I and II strengthen the statement.",
+    "OP4": "I weakens while II strengthens the statement.",
+    "Answer": "2"
+  },
+  {
+    "SL": 57,
+    "Question": "Which of the following letter-clusters should replace # and % so that the pattern and relationship followed between the letter-cluster pair on the left side of :: is the same as that on the right side of : :?<br>#: XAF :: SVA: %",
+    "OP1": "# = BEJ % = QRW",
+    "OP2": "# = BEJ % = ORW",
+    "OP3": "# = BEJ % = ORP",
+    "OP4": "# = BBJ % = ORW",
+    "Answer": "2"
+  },
+  {
+    "SL": 58,
+    "Question": "O, P, Q, R, S and T are sitting around a circular table facing the centre (but not necessarily in the same order). P sits second to the left of T. S sits third to the right of Q. Q is not an immediate neighbour of P. O sits second to the right of S. Which of the following represents the position of O with respect of R?",
+    "OP1": "Third to the left",
+    "OP2": "Second to the left",
+    "OP3": "Immediate right",
+    "OP4": "Third to the right",
+    "Answer": "2"
+  },
+  {
+    "SL": 59,
+    "Question": "Read the given statements and conclusions carefully. Assuming that the information given in the statement(s) is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statement(s).<br>Statements:<br>All sheeps are cows.<br>Some cows are horses.<br>All horses are jackals.<br>Conclusion:<br>(I) Some jackals are cows.<br>(II) Some horses are sheeps.",
+    "OP1": "Only Conclusion (II) follows.",
+    "OP2": "Both Conclusions (I) and (II) follow.",
+    "OP3": "Neither Conclusion (I) nor (II) follows.",
+    "OP4": "Only Conclusion (I) follows.",
+    "Answer": "4"
+  },
+  {
+    "SL": 60,
+    "Question": "In a certain code language, 'she gardens daily' is coded as 'ak jb mp' and 'where is she' is coded as 'mp pt kt'. How is 'she' coded in the given language?",
+    "OP1": "mp",
+    "OP2": "pt",
+    "OP3": "ak",
+    "OP4": "kt",
+    "Answer": "1"
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "SL": 31,
+    "Question": "Information given below represents the number codes for the given letters. Select the combination of numbers so that the letters arranged accordingly will form a meaningful word.<br>R = 1, E = 2, A = 3, C = 4, T = 5, I = 6, V = 7, E = 8",
+    "OP1": "4, 1, 2, 3, 5, 8, 7, 6",
+    "OP2": "4, 1, 2, 3, 5, 6, 7, 8",
+    "OP3": "7, 2, 1, 3, 8, 4, 5, 6",
+    "OP4": "4, 3, 1, 5, 6, 7, 8, 2",
+    "Answer": "2"
+  },
+  {
+    "SL": 32,
+    "Question": "In a code language, 'SLAIN' is written as 'PKCNU' and 'DENT' is written as 'VPGF'. How will 'CUBOID' be written in that language?",
+    "OP1": "FKQDWE",
+    "OP2": "FJQDWE",
+    "OP3": "FKQDVF",
+    "OP4": "EWDPKE",
+    "Answer": "1"
+  },
+  {
+    "SL": 33,
+    "Question": "Three of the following four triads are alike in a certain way as they are formed by performing same mathematical operations among themselves and thus form a group. Which triad does NOT belong to that group?",
+    "OP1": "11 : 21 : 121",
+    "OP2": "7 : 15 : 49",
+    "OP3": "2 : 3 : 4",
+    "OP4": "9 : 17 : 81",
+    "Answer": "2"
+  },
+  {
+    "SL": 34,
+    "Question": "Out of the following five figures, four are alike in some manner and one differs from these in that manner. Select the odd figure.<br><image content>",
+    "OP1": "<image content>",
+    "OP2": "<image content>",
+    "OP3": "<image content>",
+    "OP4": "<image content>",
+    "Answer": "3"
+  },
+  {
+    "SL": 35,
+    "Question": "Select the correct combination of mathematical signs to sequentially replace the * signs and balance the given equation.<br>11 * 7 * 345 * 5 * 31 = 115",
+    "OP1": "+ × ÷ -",
+    "OP2": "× + ÷ -",
+    "OP3": "- + × ÷",
+    "OP4": "+ - + ×",
+    "Answer": "2"
+  },
+  {
+    "SL": 36,
+    "Question": "Figure A is related to B following a certain pattern. Following the same pattern, figure C is related to D. Study the pattern and select the figure which should be placed in place of D.<br><image content>",
+    "OP1": "<image content>",
+    "OP2": "<image content>",
+    "OP3": "<image content>",
+    "OP4": "<image content>",
+    "Answer": "2"
+  },
+  {
+    "SL": 37,
+    "Question": "Seven persons are sitting around a circular dining table facing the towards the centre. S is sitting to the immediate left of Y and third to the right of R. R is sitting to the immediate left of A and immediate right of P. A is sitting to the immediate left of D. Q is sitting to the immediate left of P. If D exchanges seat with Y and P with Q, then who is sitting to the immediate right of D?",
+    "OP1": "P",
+    "OP2": "S",
+    "OP3": "Q",
+    "OP4": "R",
+    "Answer": "1"
+  },
+  {
+    "SL": 38,
+    "Question": "In this question, two statements I and II have been given. These statements may be independent causes or effects of independent causes or a common cause. One of the statements may be the effect of the other statement. Read both statements and select the correct answer.<br>I. Over the last two years 22% of the Company P's manpower was laid off.<br>II. Over the past two years Company P has sold off many of their major assets.",
+    "OP1": "Both I and II are effects of a common cause.",
+    "OP2": "I is the cause and II is its possible effect.",
+    "OP3": "II is the cause and I is its possible effect.",
+    "OP4": "Both I and II are independent causes.",
+    "Answer": "1"
+  },
+  {
+    "SL": 39,
+    "Question": "Out of the following five figures, four are alike in some manner and one differs from these in that manner. Select the odd figure.<br><image content>",
+    "OP1": "<image content>",
+    "OP2": "<image content>",
+    "OP3": "<image content>",
+    "OP4": "<image content>",
+    "Answer": "3"
+  },
+  {
+    "SL": 40,
+    "Question": "Which of the following letter-clusters should replace # and % so that the pattern and relationship followed between the letter-cluster pair on the left side of :: is the same as that on the right side of ::?<br># : KNE :: PQV : %",
+    "OP1": "# = NOB, % = SRY",
+    "OP2": "# = NKF, % = MTU",
+    "OP3": "# = MOB, % = RTT",
+    "OP4": "# = HQD, % = MTV",
+    "Answer": "2"
+  },
+  {
+    "SL": 41,
+    "Question": "Select the figure from the options that can replace the question mark (?) and complete the given pattern.<br><image content>",
+    "OP1": "<image content>",
+    "OP2": "<image content>",
+    "OP3": "<image content>",
+    "OP4": "<image content>",
+    "Answer": "2"
+  },
+  {
+    "SL": 42,
+    "Question": "Given below is a question followed by two statements I and II. Read both statements carefully to decide which one of them is sufficient to answer the question<br>Six people - K, M, N, P, Q and R are sitting around a circular table facing the centre. Who sits second to the left of P?<br>(I) K sits to the immediate right of P. Only two people sit between P and Q. R sits second to the right of M.<br>(II) Only two people sit between N and M. Q is an immediate neighbour of M. Only one person sits between Q and K.",
+    "OP1": "Data in statement II alone is sufficient to answer the question while data in statement I is not.",
+    "OP2": "Data in statement I alone is sufficient to answer the question while data in statement II is not.",
+    "OP3": "Data in statements I and II together are NOT sufficient to answer the question.",
+    "OP4": "Data in statements I and II together are sufficient to answer the question.",
+    "Answer": "2"
+  },
+  {
+    "SL": 43,
+    "Question": "Select the option in which the following figure is embedded. (Rotation is NOT allowed)<br><image content>",
+    "OP1": "<image content>",
+    "OP2": "<image content>",
+    "OP3": "<image content>",
+    "OP4": "<image content>",
+    "Answer": "4"
+  },
+  {
+    "SL": 44,
+    "Question": "Three statements are given, followed by three conclusions numbered I, II and III. Assuming the statements to be true, even if they seem to be at variance with commonly known facts, decide which of the conclusions logically follow(s) from the statements.<br>Statements:<br>Some Bangles are Bracelets.<br>All chains are Rings.<br>Some Bracelets are Chains.<br>Conclusions:<br>(I) Some Bangles are Rings.<br>(II) Some Chains are Bangles.<br>(III) Some Rings are Bracelets.",
+    "OP1": "Only Conclusion III follows.",
+    "OP2": "Both Conclusions I and II follow.",
+    "OP3": "Both Conclusions I and III follow.",
+    "OP4": "None of the conclusions follow.",
+    "Answer": "1"
+  },
+  {
+    "SL": 45,
+    "Question": "Amit ranked 7th from the top and 26th from the bottom in his class. How many students are there in the class?",
+    "OP1": "31",
+    "OP2": "33",
+    "OP3": "27",
+    "OP4": "32",
+    "Answer": "4"
+  },
+  {
+    "SL": 46,
+    "Question": "Select the number from among the given options that can replace the question mark (?) in the following series.<br>242, 288, ?, 392, 450",
+    "OP1": "338",
+    "OP2": "375",
+    "OP3": "316",
+    "OP4": "324",
+    "Answer": "1"
+  },
+  {
+    "SL": 47,
+    "Question": "Direction: A statement is given followed by two conclusions numbered I and II. Assuming that the given statement is true even if it seems to be at variance from commonly known facts, decide which of the given conclusions logically follow(s) from the given statement.<br>Statement:<br>In a football match between Team-X and Team-Y, the total number of goals scored by Team-Y was 5, out of which 3 goals were scored by the left footed player.<br>Assumption:<br>I. The left-footed player was adept at scoring goals.<br>II. 60% of the players in Team Y are left footed.",
+    "OP1": "Both I and II follow.",
+    "OP2": "Only II Follows.",
+    "OP3": "Neither I nor II follows.",
+    "OP4": "Only I follow.",
+    "Answer": "3"
+  },
+  {
+    "SL": 48,
+    "Question": "The sequence of folding a piece of paper and the manner in which the folded paper has been cut is shown below. Choose a figure which would most closely resemble the unfolded form of the paper.<br><image content>",
+    "OP1": "<image content>",
+    "OP2": "<image content>",
+    "OP3": "<image content>",
+    "OP4": "<image content>",
+    "Answer": "1"
+  },
+  {
+    "SL": 49,
+    "Question": "Select the option that represents the letters that, when placed from left to right in the following blanks, will complete the letter-series.<br>SCR_WS_R_W_C_GWS_RH_",
+    "OP1": "GDFSRCW",
+    "OP2": "HDFSRCW",
+    "OP3": "ECFSRCW",
+    "OP4": "EDFSRDW",
+    "Answer": "3"
+  },
+  {
+    "SL": 50,
+    "Question": "If + means -, - means ×, × means ÷, and ÷ means +, what will be the value of the following expression?<br>3 + 6 ÷ 3 - 4 × 4 = ?",
+    "OP1": "8",
+    "OP2": "5",
+    "OP3": "6",
+    "OP4": "4",
+    "Answer": "3"
+  },
+  {
+    "SL": 51,
+    "Question": "In this question, a statement is followed by two courses of actions, numbered I and II. You must assume everything in the statement to be true and on the basis of the information given in the statement, decide which of the course of action/s logically follow for pursuing.<br>Statement: Some serious mistakes were found in the technical section of a company.<br>Course of Action:<br>I. An efficient technical team should be appointed to check the technical errors.<br>II. A reason explanation notice should be issued to all the employees involved in the irregularities.",
+    "OP1": "Neither I nor II follows",
+    "OP2": "Only I follows",
+    "OP3": "Only II follows",
+    "OP4": "Both I and II follow",
+    "Answer": "4"
+  },
+  {
+    "SL": 52,
+    "Question": "Select the figure from among the given options that can replace the question mark (?) in the following series.<br><image content>",
+    "OP1": "<image content>",
+    "OP2": "<image content>",
+    "OP3": "<image content>",
+    "OP4": "<image content>",
+    "Answer": "1"
+  },
+  {
+    "SL": 53,
+    "Question": "In a certain code language, 'POLISH' is written as '89' and 'CLIP' is written as '72'. How will ‘CONTROL' be written in that language?",
+    "OP1": "89",
+    "OP2": "92",
+    "OP3": "106",
+    "OP4": "99",
+    "Answer": "4"
+  },
+  {
+    "SL": 54,
+    "Question": "Three of the following words are alike in some manner and hence form a group. Which word does NOT belong to that group? (The words must be considered as meaningful English words and must not be grouped based on the number of letters/number of consonants/vowels in the word)",
+    "OP1": "Engineer",
+    "OP2": "Doctor",
+    "OP3": "Carpenter",
+    "OP4": "Teacher",
+    "Answer": "3"
+  },
+  {
+    "SL": 55,
+    "Question": "Select the set in which the numbers are related in the same way as are the numbers of the following sets.<br>(NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 - Operations on 13 such as adding /deleting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is NOT allowed)<br>(18, 39, 60), (27, 48, 69)",
+    "OP1": "(24, 64, 96)",
+    "OP2": "(35, 56, 77)",
+    "OP3": "(31, 52, 84)",
+    "OP4": "(17, 28, 49)",
+    "Answer": "2"
+  },
+  {
+    "SL": 56,
+    "Question": "'A # B' means 'A is the brother of B'.<br>'A @ B' means 'A is the daughter of B'.<br>'A & B' means 'A is the husband of B'.<br>'A % B' means 'A is the wife of B'.<br>If Z % X # C @ V & B @ N, then how is Z related to B?",
+    "OP1": "Son's wife",
+    "OP2": "Daughter",
+    "OP3": "Husband's mother",
+    "OP4": "Mother",
+    "Answer": "1"
+  },
+  {
+    "SL": 57,
+    "Question": "'A # B' means 'A is the brother of B'.<br>'A @ B' means 'A is the daughter of B'.<br>'A & B' means 'A is the husband of B'.<br>'A % B' means 'A is the wife of B'.<br>If D @ N @ H & Y @ F % V, then how is Y related to D?",
+    "OP1": "Mother's mother",
+    "OP2": "Sister's daughter",
+    "OP3": "Mother",
+    "OP4": "Daughter's daughter",
+    "Answer": "1"
+  },
+  {
+    "SL": 58,
+    "Question": "In the given question, the statement is followed by two conclusions. Which of the two conclusions is/are true?<br>Statement: \\(Z = E \\ge R > G < Y > Q = F\\)<br>Conclusions:<br>I. \\(R < F\\)<br>II. \\(R \\ge Z\\)",
+    "OP1": "Both conclusions I and II are true",
+    "OP2": "Only conclusion II is true",
+    "OP3": "Only conclusion I is true",
+    "OP4": "Neither conclusion I nor II is true",
+    "Answer": "4"
+  },
+  {
+    "SL": 59,
+    "Question": "A question is given, followed by two statements numbered (I) and (II). You have to decide whether the data provided in the statements is sufficient to answer the question. Read both the statements and select the appropriate answer.<br>Question: Four people, A, B, C and D, are sitting in a straight line, facing south. Who is sitting at the right end?<br>Statements:<br>(I) Only two people sit between B and D; A sits to the immediate left of B.<br>(II) Only one person sits between B and C; A sits to the immediate right of C.",
+    "OP1": "Data in statement I alone is sufficient to answer the question while data in statement II is not",
+    "OP2": "Data in statement II alone is sufficient to answer the question while data in statement I is not",
+    "OP3": "Data in either statement I alone or statement II alone is sufficient to answer the question",
+    "OP4": "Data in statements I and II together is sufficient to answer the question",
+    "Answer": "1"
+  },
+  {
+    "SL": 60,
+    "Question": "Select the correct mirror image of the given combination when the mirror is held at the right side of the image.<br><image content>",
+    "OP1": "<image content>",
+    "OP2": "<image content>",
+    "OP3": "<image content>",
+    "OP4": "<image content>",
+    "Answer": "1"
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "SL": 1,
+    "Question": "ΔABC is inscribed in a circle with Centre O. If AB = 21 cm, BC = 20 cm and AC = 29 cm, then what is the length of the circumradius of the triangle?",
+    "OP1": "13.5 cm",
+    "OP2": "21.5 cm",
+    "OP3": "32.5 cm",
+    "OP4": "14.5 cm",
+    "Answer": "4"
+  },
+  {
+    "SL": 2,
+    "Question": "On a 2200 m long circular track, Sarita and Kavita drove their cycles from the same point but in opposite direction with the speeds 20 km/hr and 16 km/hr, respectively. After how much time will they meet again for the first time?",
+    "OP1": "3 minutes 40 seconds",
+    "OP2": "3 minutes 20 seconds",
+    "OP3": "2 minutes 50 seconds",
+    "OP4": "2 minutes 20 seconds",
+    "Answer": "1"
+  },
+  {
+    "SL": 3,
+    "Question": "In a triangle HJK, HJ = HK. G is a point on HJ such that HG = GK = JK. What is the degree measure of two-third of (∠HGK + ∠GKJ)?",
+    "OP1": "84°",
+    "OP2": "136°",
+    "OP3": "90°",
+    "OP4": "96°",
+    "Answer": "4"
+  },
+  {
+    "SL": 4,
+    "Question": "Find the simple interest (in ₹) on ₹2000 at 6.5% per annum rate of interest for the period from 14 February 2023 to 28 April 2023",
+    "OP1": "27",
+    "OP2": "25",
+    "OP3": "26",
+    "OP4": "24",
+    "Answer": "3"
+  },
+  {
+    "SL": 5,
+    "Question": "The population of a place increased to 50,000 from 2016 to 2018 at the rate of 6% per annum, and continued the same trend for the next 3 years. If A is the population in 2016 and B is the population in 2020, both are approximated to the next possible integers, then the value of B - A is:",
+    "OP1": "11680",
+    "OP2": "13220",
+    "OP3": "16270",
+    "OP4": "12850",
+    "Answer": "1"
+  },
+  {
+    "SL": 6,
+    "Question": "If the ratio of the areas of two similar triangles is 121 : 225, then find the ratio of their corresponding sides.",
+    "OP1": "15 : 13",
+    "OP2": "11 : 15",
+    "OP3": "9 : 11",
+    "OP4": "11 : 13",
+    "Answer": "2"
+  },
+  {
+    "SL": 7,
+    "Question": "Find the value of Y, if \\(X - 2Y + 2Z = 16\\), \\(X - Y + Z = 9\\) and \\(2X - 3Y - Z = 9\\).",
+    "OP1": "4",
+    "OP2": "2",
+    "OP3": "-4",
+    "OP4": "-3",
+    "Answer": "4"
+  },
+  {
+    "SL": 8,
+    "Question": "Rani and Adya, working separately, can finish a task in 12 days and 16 days, respectively. They work in stretches of one day alternately. If Rani starts working first, then the task will be completed in",
+    "OP1": "\\(12\\frac{2}{3}\\) days",
+    "OP2": "\\(12\\frac{3}{4}\\) days",
+    "OP3": "\\(13\\frac{1}{3}\\) days",
+    "OP4": "\\(13\\frac{3}{4}\\) days",
+    "Answer": "3"
+  },
+  {
+    "SL": 9,
+    "Question": "Let A and B be two players who are playing the game to hit the target. The probabilities of hitting the target by A and B is \\(\\frac{2}{3}\\) and \\(\\frac{3}{4}\\) respectively. What is the probability that exactly one of them hit the target?",
+    "OP1": "\\(\\frac{7}{12}\\)",
+    "OP2": "\\(\\frac{1}{4}\\)",
+    "OP3": "\\(\\frac{5}{12}\\)",
+    "OP4": "\\(\\frac{1}{12}\\)",
+    "Answer": "3"
+  },
+  {
+    "SL": 10,
+    "Question": "On the occasion of Republic Day, a retail store offers a scheme where customers can avail a discount of 26% on their total purchase. If Manish buys items worth ₹2,050, how much money (in ₹) will he save through the scheme discount?",
+    "OP1": "522",
+    "OP2": "511",
+    "OP3": "533",
+    "OP4": "544",
+    "Answer": "3"
+  },
+  {
+    "SL": 11,
+    "Question": "Vessel A contains milk and water in the ratio 4 : 5. Vessel B contains milk and water in the ratio 2 : 1. If x litres mixture of A is mixed with y litres mixture of B, then the ratio of milk to water in the mixture becomes 8 : 5. Find the ratio x : y.",
+    "OP1": "5 : 6",
+    "OP2": "3 : 10",
+    "OP3": "2 : 5",
+    "OP4": "3 : 4",
+    "Answer": "2"
+  },
+  {
+    "SL": 12,
+    "Question": "The average of first 91 even numbers is",
+    "OP1": "91",
+    "OP2": "90",
+    "OP3": "92",
+    "OP4": "93",
+    "Answer": "3"
+  },
+  {
+    "SL": 13,
+    "Question": "Find the volume (in \\(cm^3\\), rounded off to 2 decimal places) of a right circular cone of diameter 12 cm and height 5 cm. [Use \\(\\pi = \\frac{22}{7}\\)]",
+    "OP1": "197.25",
+    "OP2": "156.39",
+    "OP3": "188.57",
+    "OP4": "147.23",
+    "Answer": "3"
+  },
+  {
+    "SL": 14,
+    "Question": "\\(\\frac{\\sqrt[3]{6859}}{\\sqrt[4]{1296}} \\times \\frac{3}{57} \\times 42 = ?\\)",
+    "OP1": "7",
+    "OP2": "-3",
+    "OP3": "16",
+    "OP4": "17",
+    "Answer": "1"
+  },
+  {
+    "SL": 15,
+    "Question": "If \\(x = 8 + \\sqrt{5}\\) and \\(y = 8 - \\sqrt{5}\\) then the value of \\(x^2 + y^2\\) is:",
+    "OP1": "138",
+    "OP2": "143",
+    "OP3": "140",
+    "OP4": "124",
+    "Answer": "1"
+  },
+  {
+    "SL": 16,
+    "Question": "A sum of money is to be distributed among 3 friends P, Q and R in the proportion of 5:3:4. If P gets ₹1,500 more than R, what is Q's share?",
+    "OP1": "₹4,500",
+    "OP2": "₹4,950",
+    "OP3": "₹5,100",
+    "OP4": "₹4,680",
+    "Answer": "1"
+  },
+  {
+    "SL": 17,
+    "Question": "If \\(\\tan (x + y) \\tan (x - y) = 1\\), then find the value of \\(\\tan x\\).",
+    "OP1": "\\(\\sqrt{3}\\)",
+    "OP2": "1",
+    "OP3": "\\(\\frac{1}{2\\sqrt{3}}\\)",
+    "OP4": "\\(\\frac{1}{\\sqrt{3}}\\)",
+    "Answer": "2"
+  },
+  {
+    "SL": 18,
+    "Question": "Using empirical formula, calculate the mode for the following data.<br>17, 20, 21, 18, 25, 28, 24, 22, 16, 24, 25, 24",
+    "OP1": "25.8",
+    "OP2": "30.6",
+    "OP3": "25",
+    "OP4": "32",
+    "Answer": "3"
+  },
+  {
+    "SL": 19,
+    "Question": "If \\(\\frac{\\sec \\theta - \\tan \\theta}{\\sec \\theta + \\tan \\theta} = \\frac{1}{9}\\), \\(\\theta\\) lies in the first quadrant, then the value of \\(\\frac{\\sin \\theta - \\tan^2 \\theta}{\\sin \\theta + \\tan^2 \\theta}\\) is:",
+    "OP1": "\\(-\\frac{13}{27}\\)",
+    "OP2": "\\(\\frac{13}{27}\\)",
+    "OP3": "\\(-\\frac{11}{29}\\)",
+    "OP4": "\\(\\frac{11}{29}\\)",
+    "Answer": "4"
+  },
+  {
+    "SL": 20,
+    "Question": "\\(\\frac{(a^7 \\times b^8 \\times c^7)}{(a^5 \\times b^5 \\times c^4)}\\) in simplified form is:",
+    "OP1": "\\((a^{-5}) \\times (b^{-8}) \\times (c^0)\\)",
+    "OP2": "\\((a^{-7}) \\times (b^2) \\times (c^{-4})\\)",
+    "OP3": "\\((a^2) \\times (b^3) \\times (c^3)\\)",
+    "OP4": "\\((a^6) \\times (b^7) \\times (c^1)\\)",
+    "Answer": "3"
+  },
+  {
+    "SL": 21,
+    "Question": "By how much is 60% of 75 greater than \\(\\frac{1}{5}\\) of 25?",
+    "OP1": "37",
+    "OP2": "34",
+    "OP3": "40",
+    "OP4": "38",
+    "Answer": "3"
+  },
+  {
+    "SL": 22,
+    "Question": "If the average age of three persons is 56 years and their ages are in the ratio 2 : 5 : 7, then find the age of the youngest person.",
+    "OP1": "24 years",
+    "OP2": "20 years",
+    "OP3": "22 years",
+    "OP4": "26 years",
+    "Answer": "1"
+  },
+  {
+    "SL": 23,
+    "Question": "A toy is in the form of a cone mounted on a hemisphere. The radius of the hemisphere and that of the cone is 36 cm and height of the cone is 105 cm. The total surface area (in \\(cm^2\\)) of the toy is:",
+    "OP1": "6025 \\(\\pi\\)",
+    "OP2": "6588 \\(\\pi\\)",
+    "OP3": "5799 \\(\\pi\\)",
+    "OP4": "5240 \\(\\pi\\)",
+    "Answer": "2"
+  },
+  {
+    "SL": 24,
+    "Question": "Anil and Beena are friends, and the difference between their ages is 5 years. Anil's father Dinesh is three times as old as Anil, and Beena is twice as old as her sister Charu. The ages of Dinesh and Charu differ by 45 years. If Beena is older than Anil, then find the sum of the present ages of both Dinesh and Charu.",
+    "OP1": "100 years",
+    "OP2": "91 years",
+    "OP3": "69 years",
+    "OP4": "78 years",
+    "Answer": "3"
+  },
+  {
+    "SL": 25,
+    "Question": "The height of a right circular cone is 63 cm and the area of its curved surface is five times the area of its base. What is the volume (in \\(cm^3\\)) of the cone? (Use \\(\\pi = 22/7\\))",
+    "OP1": "12589.10",
+    "OP2": "11234.65",
+    "OP3": "10914.75",
+    "OP4": "13540.25",
+    "Answer": "3"
+  },
+  {
+    "SL": 26,
+    "Question": "A man buys 10 identical articles for a total of ₹15. If he sells each of them for ₹1.7, then his profit percentage will be ______%(rounded off to two decimal place).",
+    "OP1": "14.33",
+    "OP2": "13.33",
+    "OP3": "12.76",
+    "OP4": "11.76",
+    "Answer": "2"
+  },
+  {
+    "SL": 27,
+    "Question": "Find the median of the following data. (Rounded off to 2 decimal places.)<br><table><tr><td>Class interval</td><td>0-5</td><td>5-10</td><td>10-15</td><td>15-20</td><td>20-25</td><td>25-30</td><td>30-35</td></tr><tr><td>Frequency</td><td>3</td><td>5</td><td>4</td><td>2</td><td>7</td><td>6</td><td>5</td></tr></table>",
+    "OP1": "18.64",
+    "OP2": "20.53",
+    "OP3": "21.43",
+    "OP4": "23.40",
+    "Answer": "3"
+  },
+  {
+    "SL": 28,
+    "Question": "Let ABC be a right-angled triangle with a right angle at B. If \\(\\tan A = \\sqrt{3}\\), then find the value of \\(\\sin A \\cos C + \\cos A \\sin C\\) and \\(\\cos A \\cos C - \\sin A \\sin C\\).",
+    "OP1": "\\(\\frac{\\sqrt{3}}{2}, \\frac{\\sqrt{3}}{2}\\)",
+    "OP2": "\\(\\frac{1}{2}, \\frac{1}{2}\\)",
+    "OP3": "1, 0",
+    "OP4": "\\(\\frac{\\sqrt{3}}{2}, \\frac{1}{2}\\)",
+    "Answer": "3"
+  },
+  {
+    "SL": 29,
+    "Question": "Simplify \\((5z - 12y)^2 + (12z + 5y)^2 - 144z^2\\)",
+    "OP1": "\\(25z^2 + 169y^2\\)",
+    "OP2": "\\(23z^2 + 177y^2\\)",
+    "OP3": "\\(23z^2 + 174y^2\\)",
+    "OP4": "\\(30z^2 + 170y^2\\)",
+    "Answer": "1"
+  },
+  {
+    "SL": 30,
+    "Question": "The value of \\(4^3 - 0^2 + (\\frac{22}{2})^2 - 8 + 7 \\times 6 = \\) ______",
+    "OP1": "218",
+    "OP2": "224",
+    "OP3": "219",
+    "OP4": "229",
+    "Answer": "3"
+  }
+]

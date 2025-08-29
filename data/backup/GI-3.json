@@ -1,0 +1,272 @@
+[
+  {
+    "SL": 31,
+    "Question": "A statement is followed by four conclusions. Which of the conclusions is/are true based on the given statement?<br><b>Statement:</b><br>I < M < F ≤ D ≤ S = J<br><b>Conclusions:</b><br>I) S < M<br>II) F = S<br>III) I > J<br>IV) M < D",
+    "OP1": "Only conclusion IV is true.",
+    "OP2": "Conclusions I and III are true.",
+    "OP3": "Only conclusion II is true.",
+    "OP4": "Conclusions IV and II are true.",
+    "Answer": "1"
+  },
+  {
+    "SL": 32,
+    "Question": "Given below is a statement followed by two possible reasons numbered I and II. Read the statement carefully and decide which of the two explains (s) the event/observation/information given in the statement.<br><b>statement:</b><br>In India, large cities have attracted migrant population from across rural parts of the country. According to 2011 census, in India's six largest metros (Delhi, Mumbai, Chennai, Bengaluru, Kolkata and Hyderabad), approximately 48% of the residents were migrants.<br><b>reasons:</b><br>I) Migration happens due to availability of better career and economic prospects in cities.<br>II) Migration happens because people like travelling and exploring new cities.",
+    "OP1": "Only I is a possible reason.",
+    "OP2": "Neither I nor II is a possible reason.",
+    "OP3": "Both I and II are possible reasons.",
+    "OP4": "Only II is a possible reason.",
+    "Answer": "1"
+  },
+  {
+    "SL": 33,
+    "Question": "What should come in place of the question mark (?) in the given series?<br>18, 74, 298, 1194, 4778, ?",
+    "OP1": "19116",
+    "OP2": "19112",
+    "OP3": "19114",
+    "OP4": "19110",
+    "Answer": "3"
+  },
+  {
+    "SL": 34,
+    "Question": "Identify the figure given in the options which when put in place of (?) will logically complete the series.<br><image content>",
+    "OP1": "<image content>",
+    "OP2": "<image content>",
+    "OP3": "<image content>",
+    "OP4": "<image content>",
+    "Answer": "1"
+  },
+  {
+    "SL": 35,
+    "Question": "What approximate value will come in place of the question mark (?) in the following equation?<br>\\(49.85 - 5.31 + 9.97 = ?\\)",
+    "OP1": "19",
+    "OP2": "37",
+    "OP3": "6",
+    "OP4": "55",
+    "Answer": "4"
+  },
+  {
+    "SL": 36,
+    "Question": "Select the set in which the numbers are related in the same way as are the numbers of the following sets.<br>(NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g., 13 - Operations on 13 such as adding /subtracting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)<br>(5, 5, 25)<br>(2, 5, 10)",
+    "OP1": "(3, 3, 9)",
+    "OP2": "(4, 4, 20)",
+    "OP3": "(7, 3, 14)",
+    "OP4": "(9, 3, 26)",
+    "Answer": "1"
+  },
+  {
+    "SL": 37,
+    "Question": "Select the correct option that indicates the arrangement of the given words in a logical and meaningful order.<br>1. Shirt piece<br>2.Thread<br>3. Fabric<br>4. Shirt<br>5. Cotton",
+    "OP1": "5, 2, 3, 1, 4",
+    "OP2": "3, 5, 1, 2, 4",
+    "OP3": "5, 3, 1, 2, 4",
+    "OP4": "3, 1, 2, 4, 5",
+    "Answer": "1"
+  },
+  {
+    "SL": 38,
+    "Question": "Select the combination of letters that when sequentially placed in the blanks of the given series will complete the series.<br>A_DF GI_L MOP__UVX YA_D",
+    "OP1": "BJQRB",
+    "OP2": "CJRSB",
+    "OP3": "BJRSB",
+    "OP4": "CJQRB",
+    "Answer": "2"
+  },
+  {
+    "SL": 39,
+    "Question": "Each of the digits in the number 7148356 is arranged in ascending order from left to right. The position of how many digits will remain unchanged as compared to that in the original number?",
+    "OP1": "None",
+    "OP2": "One",
+    "OP3": "Two",
+    "OP4": "Three",
+    "Answer": "2"
+  },
+  {
+    "SL": 40,
+    "Question": "What will come in the place of the question mark (?) in the following equation if '+' and '−' are interchanged and '×' and '÷' are interchanged?<br>\\(163 ÷ 3 + 147 × 7 − 1 = ?\\)",
+    "OP1": "489",
+    "OP2": "459",
+    "OP3": "479",
+    "OP4": "469",
+    "Answer": "4"
+  },
+  {
+    "SL": 41,
+    "Question": "A certain number of people are sitting in a row, facing north. N is sitting third to the left of P. M is sitting third to the left of N. O is sitting third to the left of M. M is sitting between O and N. N is sitting between M and P. If no other person is sitting in the row, what is the total number of persons seated?",
+    "OP1": "9",
+    "OP2": "10",
+    "OP3": "8",
+    "OP4": "11",
+    "Answer": "2"
+  },
+  {
+    "SL": 42,
+    "Question": "Three of the following word pairs are alike in some manner and hence form a group.<br>Which word pair does not belong to that group?<br>(The words must be considered as meaningful English words and must not be grouped based on the number of letters/number of consonants/vowels in the word.)",
+    "OP1": "Travel : Tour",
+    "OP2": "Close : Distant",
+    "OP3": "Look : See",
+    "OP4": "Carry : Lift",
+    "Answer": "2"
+  },
+  {
+    "SL": 43,
+    "Question": "What will come in the place of the question mark (?) in the following equation if '+' and '−' are interchanged and '×' and '÷' are interchanged?<br>\\(113 + 4 − 217 ÷ 7 × 4 = ?\\)",
+    "OP1": "467",
+    "OP2": "459",
+    "OP3": "477",
+    "OP4": "479",
+    "Answer": "4"
+  },
+  {
+    "SL": 44,
+    "Question": "A question is given, followed by two statements labelled I and II. Identify which of the statements is/are sufficient to answer the question.<br><b>Question:</b><br>A, B, C, D, E and F are sitting around a circular table. Each of them faces either the centre of the table or outside (i.e., opposite to the centre). In which direction is D facing?<br><b>Statements:</b><br>(I) B sits second to the right of F and both are facing the centre. Only two people are sitting between A and E from the either sides. Both A and E are facing the same direction. A is not an immediate neighbor of B.<br>(II) C is facing the opposite direction of B. D is sitting to the second left of C.",
+    "OP1": "Statement I alone is sufficient to answer the question while statement II is not.",
+    "OP2": "Statements I and II together are not sufficient to answer the question.",
+    "OP3": "Statement II alone is sufficient to answer the question while statement I is not.",
+    "OP4": "Statements I and II together are sufficient to answer the question.",
+    "Answer": "2"
+  },
+  {
+    "SL": 45,
+    "Question": "Four of the following five figures are alike in a certain way and thus form a group. Which is the one that does NOT belong to that group?<br><image content>",
+    "OP1": "C",
+    "OP2": "D",
+    "OP3": "B",
+    "OP4": "A",
+    "Answer": "3"
+  },
+  {
+    "SL": 46,
+    "Question": "One statement is given, and it is followed by two inferences numbered I and II. Read the statement and decide which of the inferences is/are true for the given statement.<br><b>Statements:</b> Fuel prices in India are inflating day by day, and there is no upper limit in its price increase.<br><b>Inferences:</b><br>I. Central and State governments have not cut down their respective taxes on fuel.<br>II. Inflation in the international market is influencing the rising fuel prices.",
+    "OP1": "Both inferences I and II are true.",
+    "OP2": "Only inference II is true.",
+    "OP3": "Neither inference I nor II is true.",
+    "OP4": "Only inference I is true.",
+    "Answer": "3"
+  },
+  {
+    "SL": 47,
+    "Question": "In this question, a question is followed by two statements numbered (I) and (II). You have to decide whether the data provided in the statements are sufficient to answer the question. Read both the statements and decide the appropriate answer.<br><b>Question:</b> How is Kishore related to Sujata?<br>(I) Navya is the daughter of Kishore. Vinita is the wife of Kishore.<br>(II) Aman is the brother of Navya. Sujata is the only daughter of Aman.",
+    "OP1": "(II) alone is sufficient while (I) alone is not sufficient.",
+    "OP2": "(I) alone is sufficient while (II) alone is not sufficient.",
+    "OP3": "Both (I) and (II) together are needed.",
+    "OP4": "Either (I) alone or (II) alone is sufficient.",
+    "Answer": "3"
+  },
+  {
+    "SL": 48,
+    "Question": "Select the option that is related to the third word in the same way as the second word is related to the first word.<br>(The words must be considered as meaningful English words and must not be related to each other based on the number of letters/number of consonants/vowels in the word.)<br>Crowd : Dense :: Slope : ?",
+    "OP1": "Plain",
+    "OP2": "Tight",
+    "OP3": "Fill",
+    "OP4": "Steep",
+    "Answer": "4"
+  },
+  {
+    "SL": 49,
+    "Question": "What will come in the place of the question mark (?) in the following equation if '+' and '−' are interchanged and '×' and '÷' are interchanged?<br>\\(161 ÷ 4 + 75 × 5 − 4 = ?\\)",
+    "OP1": "533",
+    "OP2": "633",
+    "OP3": "643",
+    "OP4": "543",
+    "Answer": "2"
+  },
+  {
+    "SL": 50,
+    "Question": "Q is the mother of R. P is the husband of Q. S is the brother of R. How is P related to S?",
+    "OP1": "Father",
+    "OP2": "Brother",
+    "OP3": "Son",
+    "OP4": "Wife's brother",
+    "Answer": "1"
+  },
+  {
+    "SL": 51,
+    "Question": "Seven people, A, B, C, D, E, F and G are sitting in a straight line, facing north. Only three people sit to the left of D. Only two people sit between D and A. B sits fifth to the right of C. G sits to the immediate right of E but somewhere to the left of A. Who sits to the extreme right?",
+    "OP1": "B",
+    "OP2": "A",
+    "OP3": "E",
+    "OP4": "G",
+    "Answer": "2"
+  },
+  {
+    "SL": 52,
+    "Question": "Select the combination of letters that when sequentially placed in the blanks of the given series will make it logically complete.<br>P R _ Y _ _ R A _ Z P _ A _ Z",
+    "OP1": "AZYZRY",
+    "OP2": "APYZZY",
+    "OP3": "AZPYRY",
+    "OP4": "APYZRY",
+    "Answer": "3"
+  },
+  {
+    "SL": 53,
+    "Question": "Figure A is related to B in a certain pattern. Following the same pattern, figure C is related to D. Study the pattern and select the figure which should be placed in place of D.<br><image content>",
+    "OP1": "<image content>",
+    "OP2": "<image content>",
+    "OP3": "<image content>",
+    "OP4": "<image content>",
+    "Answer": "3"
+  },
+  {
+    "SL": 54,
+    "Question": "How many meaningful English words can be formed with the second, fourth, fifth, and sixth letters of the word HOCKEY (when counted from left to right) using each letter only once in each word?",
+    "OP1": "Three",
+    "OP2": "Two",
+    "OP3": "Zero",
+    "OP4": "One",
+    "Answer": "4"
+  },
+  {
+    "SL": 55,
+    "Question": "Three of the following four number-pairs are alike in a certain way and thus form a group. Which is the pair that does not belong to that group?<br>(NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 - Operations on 13 such as adding /subtracting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1and 3 is not allowed.)",
+    "OP1": "13 - 117",
+    "OP2": "11 - 89",
+    "OP3": "18 - 162",
+    "OP4": "15 - 135",
+    "Answer": "2"
+  },
+  {
+    "SL": 56,
+    "Question": "In a certain code language, 'BUTTER' is coded as 'CWWSCO' and 'THEORY' is coded as 'UJHNPV'. How will 'LATENT' be coded in that language?",
+    "OP1": "MDXCLQ",
+    "OP2": "MCWDLQ",
+    "OP3": "MEVCKR",
+    "OP4": "MCWDMP",
+    "Answer": "2"
+  },
+  {
+    "SL": 57,
+    "Question": "Read the given statements and conclusions carefully. You have to take the given statements to be true even if they seem to be at variance from commonly known facts. You have to decide which conclusions logically follow(s) from the given statements.<br><b>Statements:</b><br>Some pens are books.<br>All book are cars.<br>Some cars are spoons.<br><b>Conclusions:</b><br>(I): Some spoons are pens.<br>(II): Some books are pens.",
+    "OP1": "Only conclusion (I) follows",
+    "OP2": "Only conclusion (II) follows",
+    "OP3": "Both conclusions (I) and (II) follow",
+    "OP4": "Neither conclusion (I) nor (II) follows",
+    "Answer": "2"
+  },
+  {
+    "SL": 58,
+    "Question": "Select the option figure that will replace the question mark (?) in the figure given below to complete the pattern.<br><image content>",
+    "OP1": "<image content>",
+    "OP2": "<image content>",
+    "OP3": "<image content>",
+    "OP4": "<image content>",
+    "Answer": "2"
+  },
+  {
+    "SL": 59,
+    "Question": "In a certain code language, 'CARD' is coded as '7359', 'SERV' is coded as '1256'and 'PACK' is coded as '8497'. What is the code for 'D' in the given code language?",
+    "OP1": "9",
+    "OP2": "5",
+    "OP3": "7",
+    "OP4": "3",
+    "Answer": "4"
+  },
+  {
+    "SL": 60,
+    "Question": "When the below given diagram is folded in the shape of a cube which symbol will face opposite to '∧' ?<br><image content>",
+    "OP1": "<image content>",
+    "OP2": "<image content>",
+    "OP3": "<image content>",
+    "OP4": "<image content>",
+    "Answer": "3"
+  }
+]

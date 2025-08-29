@@ -1,0 +1,272 @@
+[
+  {
+    "SL": 1,
+    "Question": "A pyramid has an equilateral triangle as its base, of which each side is 8 cm. Its slant edge is 24 cm. The whole surface area of the pyramid (in \\(cm^2\\)) is:",
+    "OP1": "\\(16\\sqrt{3} + 24\\sqrt{35}\\)",
+    "OP2": "\\(12\\sqrt{3} + 24\\sqrt{35}\\)",
+    "OP3": "\\(24\\sqrt{3} + 36\\sqrt{35}\\)",
+    "OP4": "\\(16\\sqrt{3} + 48\\sqrt{35}\\)",
+    "Answer": "4"
+  },
+  {
+    "SL": 2,
+    "Question": "If 80 litres of milk solution has 60% milk in it, then how much milk should be added to make milk 80% in the solution?",
+    "OP1": "70 litres",
+    "OP2": "50 litres",
+    "OP3": "60 litres",
+    "OP4": "80 litres",
+    "Answer": "4"
+  },
+  {
+    "SL": 3,
+    "Question": "If the highest common factor (HCF) of x and y is 15, then the HCF of \\(36x^2 - 81y^2\\) and \\(81x^2 - 9y^2\\) is divisible by ____.",
+    "OP1": "135",
+    "OP2": "120",
+    "OP3": "180",
+    "OP4": "90",
+    "Answer": "1"
+  },
+  {
+    "SL": 4,
+    "Question": "What is the perimeter of a square inscribed in a circle of radius 5 cm?",
+    "OP1": "\\(20\\sqrt{2}\\) cm",
+    "OP2": "\\(40\\sqrt{2}\\) cm",
+    "OP3": "\\(30\\sqrt{2}\\) cm",
+    "OP4": "\\(10\\sqrt{2}\\) cm",
+    "Answer": "2"
+  },
+  {
+    "SL": 5,
+    "Question": "If the curved surface area of a cylinder is \\(126 \\pi\\ cm^2\\) and its height is 14 cm, what is the volume of the cylinder?",
+    "OP1": "\\(283\\frac{1}{2} \\pi\\ cm^3\\)",
+    "OP2": "\\(137\\frac{1}{2} \\pi\\ cm^3\\)",
+    "OP3": "\\(128\\frac{1}{2} \\pi\\ cm^3\\)",
+    "OP4": "\\(125\\frac{1}{2} \\pi\\ cm^3\\)",
+    "Answer": "1"
+  },
+  {
+    "SL": 6,
+    "Question": "Simplify the following.<br>\\(\\frac{\\sqrt{10+\\sqrt{25+\\sqrt{108+\\sqrt{154+\\sqrt{225}}}}}}{\\sqrt{16+19.25 \\times 4^2}}\\)",
+    "OP1": "\\(\\frac{7}{18}\\)",
+    "OP2": "\\(\\frac{2}{9}\\)",
+    "OP3": "\\(\\frac{5}{18}\\)",
+    "OP4": "\\(\\frac{1}{9}\\)",
+    "Answer": "4"
+  },
+  {
+    "SL": 7,
+    "Question": "A, B, and C invested capital in the ratio of 3: 4: 8. At the end of the business term, they received the profit in the ratio of 2: 3: 5. What is the ratio of their invested time?",
+    "OP1": "15: 16: 13",
+    "OP2": "13: 18: 15",
+    "OP3": "16: 18: 15",
+    "OP4": "16: 21: 18",
+    "Answer": "3"
+  },
+  {
+    "SL": 8,
+    "Question": "The probabilities of solving a problem by three students A, B and C are \\(\\frac{3}{7}\\), \\(\\frac{5}{9}\\) and \\(\\frac{1}{5}\\) respectively. The probability that problem will be solved is:",
+    "OP1": "\\(\\frac{155}{315}\\)",
+    "OP2": "\\(\\frac{64}{315}\\)",
+    "OP3": "\\(\\frac{251}{315}\\)",
+    "OP4": "\\(\\frac{32}{315}\\)",
+    "Answer": "3"
+  },
+  {
+    "SL": 9,
+    "Question": "Reshma covers 45 km at a speed of 15 km/h by bicycle, 80 km at a speed of 40 km/h by car, and another 6 km at a speed of 2 km/h on foot. Find her average speed for the whole journey (correct to 2 decimal places).",
+    "OP1": "16.38 km/h",
+    "OP2": "43.50 km/h",
+    "OP3": "18.36 km/h",
+    "OP4": "15.25 km/h",
+    "Answer": "1"
+  },
+  {
+    "SL": 10,
+    "Question": "A dishonest dealer marks up his goods by 50% and then gives a discount of 20% on the marked price. Apart from this, he uses a faulty balance which reads 1kg for 900 gm. What is his net profit percentage (rounded off to the nearest integer)?",
+    "OP1": "24",
+    "OP2": "27",
+    "OP3": "36",
+    "OP4": "33",
+    "Answer": "4"
+  },
+  {
+    "SL": 11,
+    "Question": "If \\(\\triangle ABC\\) is right angled at B, AB = 12 cm and \\(\\angle CAB = 60^\\circ\\), determine the length of BC.",
+    "OP1": "\\(24\\sqrt{3}\\) cm",
+    "OP2": "12 cm",
+    "OP3": "\\(12\\sqrt{2}\\) cm",
+    "OP4": "\\(12\\sqrt{3}\\) cm",
+    "Answer": "4"
+  },
+  {
+    "SL": 12,
+    "Question": "Find the number of diagonals of a regular polygon, sum of whose interior angles is \\(2700^\\circ\\)",
+    "OP1": "121",
+    "OP2": "119",
+    "OP3": "127",
+    "OP4": "117",
+    "Answer": "4"
+  },
+  {
+    "SL": 13,
+    "Question": "In 5 years, the simple interest on an amount of Rs. X is \\(\\frac{2}{5}\\)th of the principal. The rate of interest per annum is:",
+    "OP1": "12%",
+    "OP2": "8%",
+    "OP3": "10%",
+    "OP4": "5%",
+    "Answer": "2"
+  },
+  {
+    "SL": 14,
+    "Question": "Find the value of given expression. \\(3 - (-6)\\{-2 - 9 - 3\\} \\div 7\\{1 + (-2)(-1)\\}\\)",
+    "OP1": "-1",
+    "OP2": "15",
+    "OP3": "7",
+    "OP4": "1",
+    "Answer": "1"
+  },
+  {
+    "SL": 15,
+    "Question": "The difference between the length of two parallel sides of a trapezium is 12 cm. The perpendicular distance between these two parallel sides is 60 cm. If the area of the trapezium is 1380 \\(cm^2\\), then find the length of each of the parallel sides (in cm).",
+    "OP1": "27, 15",
+    "OP2": "31, 19",
+    "OP3": "29, 17",
+    "OP4": "24, 12",
+    "Answer": "2"
+  },
+  {
+    "SL": 16,
+    "Question": "For a sample data, mean = 60 and median = 48. For this distribution, the mode is:",
+    "OP1": "18",
+    "OP2": "48",
+    "OP3": "36",
+    "OP4": "24",
+    "Answer": "4"
+  },
+  {
+    "SL": 17,
+    "Question": "The centroid of an equilateral triangle PQR is L. If PQ = 6 cm, the length of PL is:",
+    "OP1": "\\(4\\sqrt{3}\\) cm",
+    "OP2": "\\(3\\sqrt{3}\\) cm",
+    "OP3": "\\(2\\sqrt{3}\\) cm",
+    "OP4": "\\(5\\sqrt{3}\\) cm",
+    "Answer": "3"
+  },
+  {
+    "SL": 18,
+    "Question": "Find the exact value of \\(\\cos 120^\\circ\\).",
+    "OP1": "1",
+    "OP2": "0",
+    "OP3": "-0.5",
+    "OP4": "0.5",
+    "Answer": "3"
+  },
+  {
+    "SL": 19,
+    "Question": "If \\(4x^2 + y^2 = 40\\) and xy = 6, then find the value of 2x + y.",
+    "OP1": "6",
+    "OP2": "8",
+    "OP3": "5",
+    "OP4": "4",
+    "Answer": "2"
+  },
+  {
+    "SL": 20,
+    "Question": "The ratio of the number of coins of 25 paise, 50 paise, Rs. 2 and Rs. 5 is 5: 4: 3: 1, respectively. If the total amount of the coins is Rs. 285, then the difference between the number of 25 paise and Rs. 5 coins is:",
+    "OP1": "80",
+    "OP2": "30",
+    "OP3": "40",
+    "OP4": "60",
+    "Answer": "1"
+  },
+  {
+    "SL": 21,
+    "Question": "The average mark obtained by Saloni in four papers is 51, and in the fifth paper, she gets 56 marks. Find her new average in all five papers.",
+    "OP1": "51",
+    "OP2": "52",
+    "OP3": "49",
+    "OP4": "50",
+    "Answer": "2"
+  },
+  {
+    "SL": 22,
+    "Question": "A and B can complete a work together in 48 days. A is 4 times as work efficient as B. In how many days can B alone complete the work?",
+    "OP1": "220 days",
+    "OP2": "320 days",
+    "OP3": "240 days",
+    "OP4": "120 days",
+    "Answer": "3"
+  },
+  {
+    "SL": 23,
+    "Question": "For what value of m will the system of equations 18x - 72y + 13 = 0 and 7x - my - 17 = 0 have no solution?",
+    "OP1": "28",
+    "OP2": "24",
+    "OP3": "9",
+    "OP4": "12",
+    "Answer": "1"
+  },
+  {
+    "SL": 24,
+    "Question": "Successive discounts of 10% and 10% are equivalent to a single discount of:",
+    "OP1": "18%",
+    "OP2": "19%",
+    "OP3": "20%",
+    "OP4": "21%",
+    "Answer": "2"
+  },
+  {
+    "SL": 25,
+    "Question": "From the top of an upright pole \\(24\\sqrt{3}\\) feet high, the angle of elevation of the top of an upright tower was \\(60^\\circ\\). If the foot of the pole was 60 feet away from the foot of the tower, what tall (in feet) was the tower?",
+    "OP1": "\\(84\\sqrt{3}\\)",
+    "OP2": "\\(36\\sqrt{3}\\)",
+    "OP3": "\\(44\\sqrt{3}\\)",
+    "OP4": "\\(60\\sqrt{3}\\)",
+    "Answer": "1"
+  },
+  {
+    "SL": 26,
+    "Question": "The mode of the following data is _________<br>13, 15, 31, 12, 27, 13, 27, 30, 27, 28 and 16",
+    "OP1": "28",
+    "OP2": "27",
+    "OP3": "30",
+    "OP4": "31",
+    "Answer": "2"
+  },
+  {
+    "SL": 27,
+    "Question": "Six years ago, the ratio of ages of A to B was 7: 5. After 4 years from now, the ratio of their ages will be 11: 9. What is A's age at present?",
+    "OP1": "\\(24\\frac{1}{2}\\) years",
+    "OP2": "\\(22\\frac{1}{2}\\) years",
+    "OP3": "\\(23\\frac{1}{2}\\) years",
+    "OP4": "\\(21\\frac{1}{2}\\) years",
+    "Answer": "2"
+  },
+  {
+    "SL": 28,
+    "Question": "Mrs. Deepa Devi saves 30% of her salary. If she receives Rs. 42,000 per month as her salary, what is her monthly expenditure?",
+    "OP1": "Rs. 29,200",
+    "OP2": "Rs. 29,400",
+    "OP3": "Rs. 29,300",
+    "OP4": "Rs. 29,100",
+    "Answer": "2"
+  },
+  {
+    "SL": 29,
+    "Question": "Find the amount (integral value only) if a sum of ₹6,500 is being borrowed at 10% interest per annum for 2 years if interest is compounded half-yearly",
+    "OP1": "₹8,150",
+    "OP2": "₹7,900",
+    "OP3": "₹7,650",
+    "OP4": "₹8,250",
+    "Answer": "2"
+  },
+  {
+    "SL": 30,
+    "Question": "The number 1254216 is divisible by which of the following numbers?",
+    "OP1": "5",
+    "OP2": "11",
+    "OP3": "16",
+    "OP4": "8",
+    "Answer": "4"
+  }
+]

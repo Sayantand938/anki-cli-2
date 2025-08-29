@@ -1,0 +1,272 @@
+[
+  {
+    "SL": 1,
+    "Question": "ABCD is a quadrilateral in which diagonal BD = 70 cm. AL ⊥ BD and CM ⊥ BD such that AL = 18 cm and CM = 20. Find the area (in cm²) of the quadrilateral ABCD.",
+    "OP1": "1320",
+    "OP2": "1310",
+    "OP3": "1330",
+    "OP4": "1300",
+    "Answer": "3"
+  },
+  {
+    "SL": 2,
+    "Question": "A tank when full can be emptied by an outlet pipe A in 5.6 hours, while an inlet pipe B can fill the same empty tank in 7 hours. If pipes A and B are turned on alternatively for 1 hour each starting with pipe A when the tank is full, how long will it take to empty the tank?",
+    "OP1": "56 hours",
+    "OP2": "55 hours",
+    "OP3": "48 hours",
+    "OP4": "47 hours",
+    "Answer": "4"
+  },
+  {
+    "SL": 3,
+    "Question": "If a : b = 2: 3, b: c = 5:7, then find the ratio c: a.",
+    "OP1": "15 : 21",
+    "OP2": "20 : 21",
+    "OP3": "21 : 10",
+    "OP4": "10 : 21",
+    "Answer": "3"
+  },
+  {
+    "SL": 4,
+    "Question": "In a circle centered at O, a diameter AB is extended to a point C outside the circle. CD is a tangent at point D on the circle. If CD = 7√3 cm and ∠DBC = 120°, then the length of the diameter of the circle is equal to:",
+    "OP1": "16 cm",
+    "OP2": "20 cm",
+    "OP3": "18 cm",
+    "OP4": "14 cm",
+    "Answer": "4"
+  },
+  {
+    "SL": 5,
+    "Question": "If x = 4 + √6 and y = 4 - √6 then the value of x² + y² is:",
+    "OP1": "51",
+    "OP2": "42",
+    "OP3": "44",
+    "OP4": "43",
+    "Answer": "3"
+  },
+  {
+    "SL": 6,
+    "Question": "If \\(\\cos 27° = \\frac{p}{q}\\), then find the value of \\(\\text{cosec } 27° - \\cos 63°\\).",
+    "OP1": "\\(\\frac{p}{q\\sqrt{q^2-p^2}}\\)",
+    "OP2": "\\(\\frac{p^2}{q\\sqrt{q^2-p^2}}\\)",
+    "OP3": "\\(\\frac{q}{p\\sqrt{q^2-p^2}}\\)",
+    "OP4": "\\(\\frac{q^2}{p\\sqrt{q^2-p^2}}\\)",
+    "Answer": "2"
+  },
+  {
+    "SL": 7,
+    "Question": "The average of first 92 even numbers is",
+    "OP1": "94",
+    "OP2": "92",
+    "OP3": "93",
+    "OP4": "91",
+    "Answer": "3"
+  },
+  {
+    "SL": 8,
+    "Question": "Simplify \\((5z - 7y)² + (7z + 5y)² - 49z^2\\)",
+    "OP1": "\\(30z^2 + 83y^2\\)",
+    "OP2": "\\(35z^2 + 70y^2\\)",
+    "OP3": "\\(26z^2 + 82y^2\\)",
+    "OP4": "\\(25z^2 + 74y^2\\)",
+    "Answer": "4"
+  },
+  {
+    "SL": 9,
+    "Question": "Let PQR be a right angled triangle, right-angled at R. Let PQ = 29 cm, QR = 21 cm and ∠Q = θ. Find the value of \\(\\cos^2 θ – \\sin^2 θ\\).",
+    "OP1": "\\(\\frac{41}{841}\\)",
+    "OP2": "\\(\\frac{841}{41}\\)",
+    "OP3": "\\(\\frac{840}{40}\\)",
+    "OP4": "\\(\\frac{40}{840}\\)",
+    "Answer": "1"
+  },
+  {
+    "SL": 10,
+    "Question": "\\(\\frac{(a^5 \\times b^3 \\times c^7)}{(a^4 \\times b^8 \\times c^9)}\\) in simplified form is:",
+    "OP1": "\\((a^{-1}) \\times (b^4) \\times (c^{-5})\\)",
+    "OP2": "\\((a) \\times (b^{-5}) \\times (c^{-2})\\)",
+    "OP3": "\\((a^{-3}) \\times (b^{-10}) \\times (c^{-4})\\)",
+    "OP4": "\\((a^9) \\times (b^{11}) \\times (c^{-4})\\)",
+    "Answer": "2"
+  },
+  {
+    "SL": 11,
+    "Question": "Which number among 38211, 38121, 32118, and 31128 is divisible by 24?",
+    "OP1": "32118",
+    "OP2": "38121",
+    "OP3": "38211",
+    "OP4": "31128",
+    "Answer": "4"
+  },
+  {
+    "SL": 12,
+    "Question": "P and Q take part in 400 m race. P runs at 12 km/hr. P gives Q a start of 20 m and still beats him by 13 seconds. The speed of Q is: (Round up to two decimal places.)",
+    "OP1": "10.87 km/hr",
+    "OP2": "10.29 km/hr",
+    "OP3": "11.38 km/hr",
+    "OP4": "11.61 km/hr",
+    "Answer": "2"
+  },
+  {
+    "SL": 13,
+    "Question": "The ratio of the ages of two friends is 4 : 3 which will become 6 : 5 after 4 years. What will be the sum of their ages (in years) after 22 years from now?",
+    "OP1": "50",
+    "OP2": "52",
+    "OP3": "56",
+    "OP4": "58",
+    "Answer": "4"
+  },
+  {
+    "SL": 14,
+    "Question": "If \\(\\sin A = \\frac{5}{13}\\), then find the value of \\(\\frac{\\cos A - 2 \\tan A}{\\sin A + 3 \\tan A}\\).",
+    "OP1": "\\(\\frac{11}{255}\\)",
+    "OP2": "\\(\\frac{13}{255}\\)",
+    "OP3": "\\(\\frac{12}{255}\\)",
+    "OP4": "\\(\\frac{14}{255}\\)",
+    "Answer": "4"
+  },
+  {
+    "SL": 15,
+    "Question": "A man sells a mobile phone for ₹680 and loses something. If he had sold it for ₹1070, his gain would have been double the former loss. The cost price (in ₹) of the mobile phone is:",
+    "OP1": "820",
+    "OP2": "830",
+    "OP3": "810",
+    "OP4": "800",
+    "Answer": "3"
+  },
+  {
+    "SL": 16,
+    "Question": "If the diameter of the base of a cone is 56 cm and its curved surface area is 3080 cm², then what will be its volume (in cm³)? (Use π = 22/7)",
+    "OP1": "12250",
+    "OP2": "14670",
+    "OP3": "17248",
+    "OP4": "15391",
+    "Answer": "3"
+  },
+  {
+    "SL": 17,
+    "Question": "If A and B are two events such that \\(P(A \\cup B) = \\frac{3}{4}\\), \\(P(A \\cap B) = \\frac{1}{4}\\) and \\(P(B) = \\frac{1}{2}\\), then the events A and B are ___.",
+    "OP1": "Independent",
+    "OP2": "Not Mutually Exclusive",
+    "OP3": "Dependent",
+    "OP4": "Mutually Exclusive",
+    "Answer": "1"
+  },
+  {
+    "SL": 18,
+    "Question": "Find the median of the following data.<br><table><tbody><tr><td>Class Interval</td><td>0-20</td><td>20-40</td><td>40-60</td><td>60-80</td><td>80-100</td></tr><tr><td>Frequency</td><td>9</td><td>16</td><td>24</td><td>15</td><td>4</td></tr></tbody></table>",
+    "OP1": "55",
+    "OP2": "50",
+    "OP3": "58",
+    "OP4": "47.5",
+    "Answer": "4"
+  },
+  {
+    "SL": 19,
+    "Question": "Two years ago, the population of a town was 9487500. Due to migration to big cities, it decreases every year at the rate of 8%. The present population of the town is:",
+    "OP1": "8070120",
+    "OP2": "8030220",
+    "OP3": "9060110",
+    "OP4": "7060320",
+    "Answer": "2"
+  },
+  {
+    "SL": 20,
+    "Question": "Adi and Dia together have ₹1,440. If \\(\\frac{3}{10}\\) of Adi's amount is equal to \\(\\frac{3}{5}\\) of Dia's amount, how much amount does Dia have?",
+    "OP1": "₹464",
+    "OP2": "₹540",
+    "OP3": "₹512",
+    "OP4": "₹480",
+    "Answer": "4"
+  },
+  {
+    "SL": 21,
+    "Question": "The LCM of \\(2^3 \\times 9^2 \\times 13\\), \\(2^2 \\times 13^2 \\times 19\\) and \\(9^3 \\times 13^2 \\times 19^2\\) is",
+    "OP1": "\\(2^3 \\times 9^3 \\times 13^2 \\times 19^2\\)",
+    "OP2": "\\(2^3 \\times 9^2 \\times 13 \\times 19^2\\)",
+    "OP3": "\\(2^2 \\times 9^3 \\times 13^2 \\times 19\\)",
+    "OP4": "\\(2^3 \\times 9^2 \\times 13^2 \\times 19\\)",
+    "Answer": "1"
+  },
+  {
+    "SL": 22,
+    "Question": "8 kg of maize costing ₹51 per kg, is mixed with 9 kg of maize costing ₹68 per kg. The average per kg price of mixed maize is:",
+    "OP1": "₹60",
+    "OP2": "₹61",
+    "OP3": "₹59",
+    "OP4": "₹58",
+    "Answer": "1"
+  },
+  {
+    "SL": 23,
+    "Question": "Find the simple interest (in ₹) on ₹2000 at 6.5% per annum rate of interest for the period from 13 February 2023 to 27 April 2023",
+    "OP1": "24",
+    "OP2": "25",
+    "OP3": "26",
+    "OP4": "27",
+    "Answer": "3"
+  },
+  {
+    "SL": 24,
+    "Question": "The age of some students is given in years as 12, 13, 16, 18, 14, 19, 13, 17, 15 and 11. The median age (in years) of the students is:",
+    "OP1": "14",
+    "OP2": "14.5",
+    "OP3": "13.5",
+    "OP4": "15",
+    "Answer": "2"
+  },
+  {
+    "SL": 25,
+    "Question": "Murlidhar, the owner of a grocery store, offers a discount scheme 'buy 5 water bottles get 1 for free' to his customers. What is the effective percentage discount offered by Murlidhar? (correct up to two decimal places)",
+    "OP1": "13.33%",
+    "OP2": "16.67%",
+    "OP3": "13.67%",
+    "OP4": "20.00%",
+    "Answer": "2"
+  },
+  {
+    "SL": 26,
+    "Question": "The present ages of Sweeta and Suman are in the ratio 4 : 5. Six years back, the ratio of their ages was 2 : 3. What is the present age of Sweeta?",
+    "OP1": "8 years",
+    "OP2": "12 years",
+    "OP3": "20 years",
+    "OP4": "16 years",
+    "Answer": "2"
+  },
+  {
+    "SL": 27,
+    "Question": "Amit gets 6% increase in his sale amount in the first year and 20% in the second year, with that his present sale is ₹254400, what was his sale (in ₹) two years ago?",
+    "OP1": "240000",
+    "OP2": "180000",
+    "OP3": "200000",
+    "OP4": "212000",
+    "Answer": "3"
+  },
+  {
+    "SL": 28,
+    "Question": "Akshay places three identical rings of diameter 21 cm in such a manner that each one touches the other two rings. He observes that there is a space enclosed by the circles. What is the area (in cm²) of this portion? (Take \\(\\pi = \\frac{22}{7}\\))<br>Note - Rounded off to nearest 2 decimal places and \\(\\sqrt{3} = 1.732\\)",
+    "OP1": "20.65",
+    "OP2": "17.70",
+    "OP3": "18.25",
+    "OP4": "24.12",
+    "Answer": "2"
+  },
+  {
+    "SL": 29,
+    "Question": "In a circle with centre O, an arc ABC subtends an angle of 134° at the centre of the circle. The chord AB is produced to a point P. ∠CBP is equal to:",
+    "OP1": "45°",
+    "OP2": "67°",
+    "OP3": "89°",
+    "OP4": "113°",
+    "Answer": "2"
+  },
+  {
+    "SL": 30,
+    "Question": "The ratio between the length and the breadth of a rectangular park is 3 : 2, and the perimeter of the park is 120 m. Find the area (in m²) of the park.",
+    "OP1": "968",
+    "OP2": "454",
+    "OP3": "144",
+    "OP4": "864",
+    "Answer": "4"
+  }
+]

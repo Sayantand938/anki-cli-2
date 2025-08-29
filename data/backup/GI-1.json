@@ -1,0 +1,272 @@
+[
+  {
+    "SL": 31,
+    "Question": "Identify the figure given in the options which when put in place of the question mark (?) will logically complete the series.<br><image content>",
+    "OP1": "<image content>",
+    "OP2": "<image content>",
+    "OP3": "<image content>",
+    "OP4": "<image content>",
+    "Answer": "2"
+  },
+  {
+    "SL": 32,
+    "Question": "A question is followed by two statements numbered (I) and (II). You have to decide whether the data provided in the statements are sufficient to answer the question. Read both the statements and select the appropriate option.<br><br>Question:<br>Shourya delivered parcels to five locations A, B, C, D and E while prioritising delivery of heavier parcels first. Which location was delivered in the end?<br><br>Statements:<br>(I) The parcel for location C was heavier than all other parcels.<br>(II) The parcel for location D was lighter than the parcels assigned to locations B and A.",
+    "OP1": "Data in statements (I) and (II) together are sufficient to answer the question.",
+    "OP2": "Data in statement (II) alone is sufficient to answer the question, whereas data in statement (I) alone is not.",
+    "OP3": "Data in statement (I) alone is sufficient to answer the question, whereas data in statement (II) alone is not.",
+    "OP4": "Data in statements (I) and (II) together are not sufficient to answer the question.",
+    "Answer": "4"
+  },
+  {
+    "SL": 33,
+    "Question": "Read the following information and answer the question which follows.<br><br>\"Like seasoned gardeners, Gardener G practices crop rotation to maintain soil fertility, leading to thriving and diverse plant growth.\"<br><br>Which of the following can be inferred from the given statement? (An inference is something which is not directly stated but can be derived from the given facts/information in the statement)<br>1. The thriving and diverse plant growth in Gardener G's garden is likely influenced by the practice of crop rotation.<br>2. Gardener G is consulted by other gardeners in the area for best gardening practices.",
+    "OP1": "Only (I) can be inferred.",
+    "OP2": "Both (I) and (II) can be inferred.",
+    "OP3": "Only (II) can be inferred.",
+    "OP4": "Neither (I) nor (II) can be inferred.",
+    "Answer": "1"
+  },
+  {
+    "SL": 34,
+    "Question": "Four number-pairs have been given, out of which three are alike in some manner and one is different. Select the one that is different.<br>(NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into their constituent digits. E.g. 13 - Operations on 13 such as adding/subtracting/multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)",
+    "OP1": "286 - 11",
+    "OP2": "104 - 4",
+    "OP3": "494 - 19",
+    "OP4": "521 - 20",
+    "Answer": "4"
+  },
+  {
+    "SL": 35,
+    "Question": "In a certain code language, 'CURB' is coded as '3517' and 'BOAT' is coded as '4638'. What is the code for 'B' in the given code language?",
+    "OP1": "4",
+    "OP2": "8",
+    "OP3": "3",
+    "OP4": "7",
+    "Answer": "3"
+  },
+  {
+    "SL": 36,
+    "Question": "Select the option figure that will replace the question mark (?) in the figure given below to complete the pattern.<br><image content>",
+    "OP1": "<image content>",
+    "OP2": "<image content>",
+    "OP3": "<image content>",
+    "OP4": "",
+    "Answer": "1"
+  },
+  {
+    "SL": 37,
+    "Question": "Select the option figure in which the given figure is embedded as its part (rotation is NOT allowed).<br><image content>",
+    "OP1": "<image content>",
+    "OP2": "<image content>",
+    "OP3": "<image content>",
+    "OP4": "",
+    "Answer": "2"
+  },
+  {
+    "SL": 38,
+    "Question": "What will come in the place of the question mark (?) in the following equation, if '+' and '-' are interchanged and 'x' and '÷' are interchanged?<br>98 ÷ 7 + 288 × 2 - 144 × 3 - 152 ÷ 2 + 120 = ?",
+    "OP1": "774",
+    "OP2": "671",
+    "OP3": "432",
+    "OP4": "743",
+    "Answer": "1"
+  },
+  {
+    "SL": 39,
+    "Question": "Select the number from among the given options that can replace the question mark (?) in the following series.<br>98, 50, 26, 14, ?, 5",
+    "OP1": "10",
+    "OP2": "7",
+    "OP3": "6",
+    "OP4": "8",
+    "Answer": "4"
+  },
+  {
+    "SL": 40,
+    "Question": "How many six-lettered meaningful words can be formed using all these letters but each letter only once in the word.<br>R F I<br>G E D",
+    "OP1": "One",
+    "OP2": "Four",
+    "OP3": "Three",
+    "OP4": "Two",
+    "Answer": "1"
+  },
+  {
+    "SL": 41,
+    "Question": "Select the correct option that indicates the arrangement of the following words in a logical and meaningful order.<br>1. Set goals 2. Budget 3. Review 4. Invest 5. Assess",
+    "OP1": "1, 5, 2, 4, 3",
+    "OP2": "5, 2, 4, 3, 1",
+    "OP3": "3, 5, 1, 2, 4",
+    "OP4": "5, 1, 2, 3, 4",
+    "Answer": "1"
+  },
+  {
+    "SL": 42,
+    "Question": "A question is given, followed by two statements labelled I and II. Identify which of the statements is/are sufficient to answer the question.<br><br>Question: Five houses of five different colours (blue, green, yellow, red and violet), with equal space between every two adjacent houses, are constructed in a row facing north. Which coloured house is exactly in the middle of the row?<br><br>Statements:<br>(I) Green and yellow coloured houses are constructed at the extreme ends of the row.<br>(II) Violet and blue coloured houses are immediate neighbouring houses of green and yellow coloured houses, respectively.",
+    "OP1": "Data in Statements I and II together is not sufficient to answer the question",
+    "OP2": "Data in Statement I alone is sufficient to answer the question while data in Statement II is not",
+    "OP3": "Data in Statement II alone is sufficient to answer the question while data in Statement I is not",
+    "OP4": "Data in Statements I and II together is sufficient to answer the question",
+    "Answer": "4"
+  },
+  {
+    "SL": 43,
+    "Question": "In a certain code language,<br>P ÷ Q means 'P is the mother of Q',<br>P - Q means 'P is the brother of Q',<br>P x Q means 'P is the wife of Q' and<br>P + Q means 'P is the father of Q'.<br>Based on the above, how is U related to Z if 'U - V + W ÷ Y x Z'?",
+    "OP1": "Wife's Father's Mother's Brother",
+    "OP2": "Wife's Mother's Mother's Brother",
+    "OP3": "Wife's Mother's Mother's Father",
+    "OP4": "Wife's Father's Mother's Father",
+    "Answer": "1"
+  },
+  {
+    "SL": 44,
+    "Question": "Given below is a statement (Cause) followed by possible effects numbered I, II and III. Read the 'Cause' carefully and decide which of the three can be possible effect/s.<br>Cause - Heavy rains yesterday in City X have caused flooding in many areas including the railway station and airport.<br>Effect I - Railways has announced a delay in the departure of three trains scheduled to start from City X this morning.<br>Effect II - A number of flights were unable to land in the airport of City X last evening.<br>Effect III - Finance ministry has extended the date for filing tax returns by a month.",
+    "OP1": "Only II is a possible effect.",
+    "OP2": "Both II and III are possible effects.",
+    "OP3": "Both I and II are possible effects",
+    "OP4": "Only I is a possible effect.",
+    "Answer": "3"
+  },
+  {
+    "SL": 45,
+    "Question": "Paras ranked 5th from the top and 24th from the bottom in his class. How many students are there in his class?",
+    "OP1": "27",
+    "OP2": "26",
+    "OP3": "29",
+    "OP4": "28",
+    "Answer": "4"
+  },
+  {
+    "SL": 46,
+    "Question": "Which of the following letter-clusters should replace # and % so that the pattern and relationship followed between the letter-cluster pair on the left side of :: is the same as that on the right side of ::?<br>#: ORW :: RUZ: %",
+    "OP1": "# = UYD % = KNS",
+    "OP2": "# = VYD % = LNS",
+    "OP3": "# = VYD % = KNS",
+    "OP4": "# = VYD % = KNK",
+    "Answer": "3"
+  },
+  {
+    "SL": 47,
+    "Question": "In a certain code language,<br>A + B means 'A is the mother of B',<br>A - B means 'A is the brother of B',<br>A x B means 'A is the wife of B' and<br>A ÷ B means 'A is the father of B'.<br>Based on the above, how is U related to Z if 'U - V x W + Y ÷ Z'?",
+    "OP1": "Mother's father's father",
+    "OP2": "Mother's father's brother",
+    "OP3": "Mother's mother's brother",
+    "OP4": "Mother's mother's father",
+    "Answer": "3"
+  },
+  {
+    "SL": 48,
+    "Question": "Select the correct mirror image of the given combination when the mirror is placed at line MN as shown.<br>4BvGF72<br><image content>",
+    "OP1": "<image content>",
+    "OP2": "<image content>",
+    "OP3": "<image content>",
+    "OP4": "<image content>",
+    "Answer": "4"
+  },
+  {
+    "SL": 49,
+    "Question": "Seven people A, B, C, D, E, F and G, scored different marks (out of 100) in an exam. G scored the lowest marks. B scored second highest marks, which were 80. A scored 72. E scored more than F but less than C. Marks scored by C were a multiple of 11 and less than 70. The sum of marks scored by C and F was 120. What is the score of F?",
+    "OP1": "56",
+    "OP2": "50",
+    "OP3": "54",
+    "OP4": "55",
+    "Answer": "3"
+  },
+  {
+    "SL": 50,
+    "Question": "Each of the digits in the number 3571869 is arranged in ascending order from left to right. The position(s) of how many digits will remain unchanged as compared to that/those in the original number?",
+    "OP1": "Two",
+    "OP2": "One",
+    "OP3": "None",
+    "OP4": "Three",
+    "Answer": "2"
+  },
+  {
+    "SL": 51,
+    "Question": "Three of the following four pairs are alike in a certain way and thus form a group. Which is the pair that does not belong to that group?",
+    "OP1": "¥$£ - Currency",
+    "OP2": "ABCD - Letters",
+    "OP3": "x÷+- - Text",
+    "OP4": "1234 - Numbers",
+    "Answer": "3"
+  },
+  {
+    "SL": 52,
+    "Question": "Figure A is related to B in a certain pattern. Following the same pattern, figure C is related to D. Study the pattern and select the figure which should be placed in place of D.<br><image content>",
+    "OP1": "<image content>",
+    "OP2": "<image content>",
+    "OP3": "",
+    "OP4": "",
+    "Answer": "1"
+  },
+  {
+    "SL": 53,
+    "Question": "Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusion(s) logically follow(s) from the statements.<br><br>Statements:<br>All dolls are robots.<br>Some robots are toys.<br>Some toys are cycles.<br><br>Conclusions:<br>(I) Some toys are dolls.<br>(II) No cycle is a robot.",
+    "OP1": "Only conclusion (II) is true.",
+    "OP2": "Only conclusion (I) is true.",
+    "OP3": "Both conclusions (I) and (II) are true.",
+    "OP4": "Neither conclusion (I) nor (II) is true.",
+    "Answer": "4"
+  },
+  {
+    "SL": 54,
+    "Question": "In this question, a statement is followed by two courses of action, numbered I and II. You must assume everything in the statement to be true and on the basis of the information given in the statement, decide which of the course of action/s logically follows for pursuing.<br><br>Statement: Many people have complained to the Finance Ministry regarding a delay in receiving refunds of their Income Tax returns.<br><br>Courses of action:<br>I. The Finance Ministry must institute an enquiry into the complaints received regarding delay in income tax refunds.<br>II. The Finance Ministry must compensate the income tax payees by paying interest on their refunds for the duration of the delay.",
+    "OP1": "Neither I nor II follows.",
+    "OP2": "Only I follows.",
+    "OP3": "Both I and II follow.",
+    "OP4": "Only II follows.",
+    "Answer": "3"
+  },
+  {
+    "SL": 55,
+    "Question": "Select the correct mirror image of the given combination when the mirror is placed at line MN as shown.<br>47F29M8<br><image content>",
+    "OP1": "<image content>",
+    "OP2": "<image content>",
+    "OP3": "<image content>",
+    "OP4": "<image content>",
+    "Answer": "2"
+  },
+  {
+    "SL": 56,
+    "Question": "17 is related to 159 following a certain logic. Following the same logic, 11 is related to 105. To which of the following is 13 related, following the same logic?<br>(NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 - Operations on 13 such as adding /subtracting / multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)",
+    "OP1": "116",
+    "OP2": "103",
+    "OP3": "123",
+    "OP4": "109",
+    "Answer": "3"
+  },
+  {
+    "SL": 57,
+    "Question": "Four of the following five figures are alike in a certain way and thus form a group. Which is the one that does NOT belong to that group?<br><image content>",
+    "OP1": "D",
+    "OP2": "B",
+    "OP3": "A",
+    "OP4": "E",
+    "Answer": "4"
+  },
+  {
+    "SL": 58,
+    "Question": "In a certain code language, 'he enjoys music' is coded as 'lo po jo' and 'music and dance' is coded as 'kb jo fk'. How is 'music' coded in the given language?",
+    "OP1": "jo",
+    "OP2": "po",
+    "OP3": "lo",
+    "OP4": "fk",
+    "Answer": "1"
+  },
+  {
+    "SL": 59,
+    "Question": "Select the correct option that indicates the arrangement of the following words in a logical and meaningful order.<br>1. Plant 2. Pollination 3. Seed 4. Seedling 5. Fruit",
+    "OP1": "3, 4, 1, 2, 5",
+    "OP2": "3, 4, 1, 5, 2",
+    "OP3": "4, 1, 2, 5, 3",
+    "OP4": "4, 3, 1, 2, 5",
+    "Answer": "1"
+  },
+  {
+    "SL": 60,
+    "Question": "M, N, O, X, Y and Z are sitting around a circular table facing the centre (but not necessarily in the same order). O is an immediate neighbour of Y. Z sits second to the right of O. X is the immediate neighbour of both M and N. M is not an immediate neighbour of O. Who sits to the immediate left of Y?",
+    "OP1": "X",
+    "OP2": "O",
+    "OP3": "N",
+    "OP4": "M",
+    "Answer": "2"
+  }
+]

@@ -1,0 +1,20 @@
+```json
+[
+  {
+    "noteId": 1752957816450,
+    "newTag": "ENG::Synonyms"
+  },
+  {
+    "noteId": 1752957816457,
+    "newTag": "ENG::Synonyms"
+  },
+  {
+    "noteId": 1752957816464,
+    "newTag": "ENG::Idioms"
+  },
+  {
+    "noteId": 1752957816470,
+    "newTag": "ENG::Antonyms"
+  }
+]
+```

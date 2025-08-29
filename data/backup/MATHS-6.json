@@ -1,0 +1,272 @@
+[
+  {
+    "SL": 1,
+    "Question": "A boat covers 35 km downstream in 2 h and covers the same distance upstream in 7 h. Find the speed (in km/h) of the boat in still water.",
+    "OP1": "11.25",
+    "OP2": "28.75",
+    "OP3": "18.25",
+    "OP4": "10.55",
+    "Answer": "1"
+  },
+  {
+    "SL": 2,
+    "Question": "What is the compound interest on a sum of ₹25,000 after three years at a rate of 12 per cent per annum interest compounded yearly?",
+    "OP1": "₹10,123.20",
+    "OP2": "₹9,824.00",
+    "OP3": "₹10,520.00",
+    "OP4": "₹9,956.86",
+    "Answer": "1"
+  },
+  {
+    "SL": 3,
+    "Question": "The LCM of \\(x^2 - 8x + 15\\) and \\(x^2 – 5x + 6\\) is:",
+    "OP1": "\\((x - 2)(x - 3)(x - 5)\\)",
+    "OP2": "\\((x - 6)^2 (x + 1)(x - 3)\\)",
+    "OP3": "\\((x - 6)(x + 1)(x - 3)\\)",
+    "OP4": "\\((x + 6)(x + 1)(x - 3)\\)",
+    "Answer": "1"
+  },
+  {
+    "SL": 4,
+    "Question": "The cost of 3 kg of rice is ₹180. The cost of 8 kg of rice is equal to that of 5 kg of Pulse. The cost of 15 kg of pulses is equal to that of 2 kg of tea. The cost of 3 kg of tea is equal to that of 6 kg of walnuts. What is the cost (in ₹) of 10 kg of walnuts?",
+    "OP1": "2400",
+    "OP2": "3200",
+    "OP3": "2800",
+    "OP4": "3600",
+    "Answer": "4"
+  },
+  {
+    "SL": 5,
+    "Question": "What is the ratio of the simple interest earned on a certain amount at the rate of 21% per annum for 8 years to that earned on the same sum at the same rate for 21 years?",
+    "OP1": "8 : 21",
+    "OP2": "21 : 5",
+    "OP3": "5 : 21",
+    "OP4": "21 : 8",
+    "Answer": "1"
+  },
+  {
+    "SL": 6,
+    "Question": "Select the INCORRECT formula from the following options.",
+    "OP1": "\\(\\csc^2\\theta - \\cot^2\\theta = 1\\)",
+    "OP2": "\\(\\sin^2\\theta + \\cos^2\\theta = 1\\)",
+    "OP3": "\\(\\sec^2\\theta + \\cos^2\\theta = 1\\)",
+    "OP4": "\\(\\sec^2\\theta - \\tan^2\\theta = 1\\)",
+    "Answer": "3"
+  },
+  {
+    "SL": 7,
+    "Question": "Find the standard deviation of the following data (rounded off to two decimal places).<br>5, 3, 4, 7",
+    "OP1": "1.48",
+    "OP2": "3.21",
+    "OP3": "4.12",
+    "OP4": "2.45",
+    "Answer": "1"
+  },
+  {
+    "SL": 8,
+    "Question": "Suresh, Dinesh and Ramesh became partners in a business by investing money in the ratio of 3 : 6 : 8. If their investments is increased by 5%, 15% and 20%, respectively, then what will be the ratio of their profits for one year?",
+    "OP1": "7 : 46 : 64",
+    "OP2": "19 : 46 : 64",
+    "OP3": "21 : 46 : 64",
+    "OP4": "35 : 46 : 64",
+    "Answer": "3"
+  },
+  {
+    "SL": 9,
+    "Question": "The ratio of marks obtained by Rajesh, Rakesh and Ramesh in an exam is 2 : 4 : 9. What are the marks obtained by Rakesh and Ramesh, if Rajesh scored 30 marks in the exam?",
+    "OP1": "Rakesh = 40, Ramesh = 90",
+    "OP2": "Rakesh = 60, Ramesh = 135",
+    "OP3": "Rakesh = 120, Ramesh = 180",
+    "OP4": "Rakesh = 90, Ramesh = 40",
+    "Answer": "2"
+  },
+  {
+    "SL": 10,
+    "Question": "The average of 20 numbers is 32. If two numbers are 29 and 31, then what is the average of the remaining numbers (correct up to two decimals)?",
+    "OP1": "31.24",
+    "OP2": "30.22",
+    "OP3": "34.44",
+    "OP4": "32.22",
+    "Answer": "4"
+  },
+  {
+    "SL": 11,
+    "Question": "The angle of elevation of the top of a building at a distance of 70 m from its foot on a horizontal plane is found to be 60°. Find the height of the building.",
+    "OP1": "\\(70\\sqrt{3}\\) m",
+    "OP2": "\\(60\\sqrt{3}\\) m",
+    "OP3": "\\(50\\sqrt{3}\\) m",
+    "OP4": "\\(70\\sqrt{2}\\) m",
+    "Answer": "1"
+  },
+  {
+    "SL": 12,
+    "Question": "ABCD is a cyclic quadrilateral and BC is a diameter of the related circle on which A and D also lie. \\(\\angle BCA = 19^\\circ\\) and \\(\\angle CAD = 32^\\circ\\). What is the measure of \\(\\angle ACD\\)?",
+    "OP1": "\\(41^\\circ\\)",
+    "OP2": "\\(38^\\circ\\)",
+    "OP3": "\\(40^\\circ\\)",
+    "OP4": "\\(39^\\circ\\)",
+    "Answer": "4"
+  },
+  {
+    "SL": 13,
+    "Question": "Find the value of the given expression.<br>\\(\\sqrt{20 - \\sqrt{20 - \\sqrt{20 - ...\\infty}}}\\)",
+    "OP1": "4",
+    "OP2": "6",
+    "OP3": "5",
+    "OP4": "2",
+    "Answer": "1"
+  },
+  {
+    "SL": 14,
+    "Question": "Find the single equivalent discount for successive discounts of 12%, 18% and 25% on the marked price of a car.",
+    "OP1": "35.28%",
+    "OP2": "42.65%",
+    "OP3": "40.25%",
+    "OP4": "45.88%",
+    "Answer": "4"
+  },
+  {
+    "SL": 15,
+    "Question": "Rewa has some hens and some goats. If the total number of animal heads is 100 and the total number of animal feet is 348, then what is the total number of goats with Rewa?",
+    "OP1": "76",
+    "OP2": "74",
+    "OP3": "55",
+    "OP4": "80",
+    "Answer": "2"
+  },
+  {
+    "SL": 16,
+    "Question": "If the external angle of a regular polygon is \\(18^\\circ\\), then the number of diagonals in this polygon is:",
+    "OP1": "180",
+    "OP2": "150",
+    "OP3": "170",
+    "OP4": "140",
+    "Answer": "3"
+  },
+  {
+    "SL": 17,
+    "Question": "The number 2918245 is divisible by which of the following numbers?",
+    "OP1": "3",
+    "OP2": "11",
+    "OP3": "12",
+    "OP4": "9",
+    "Answer": "2"
+  },
+  {
+    "SL": 18,
+    "Question": "The average weight of three men is increased by 4 kg when one of them, whose weight is 100 kg, is replaced by another man. What is the weight of the new man?",
+    "OP1": "107 kg",
+    "OP2": "103 kg",
+    "OP3": "104 kg",
+    "OP4": "112 kg",
+    "Answer": "4"
+  },
+  {
+    "SL": 19,
+    "Question": "The median of the following data will be _______.<br>32, 25, 33, 27, 35, 29 and 30",
+    "OP1": "32",
+    "OP2": "27",
+    "OP3": "30",
+    "OP4": "29",
+    "Answer": "3"
+  },
+  {
+    "SL": 20,
+    "Question": "A hemispherical bowl of internal radius 18 cm is full of liquid. This liquid is to be filled in cylindrical bottles each of radius 3 cm and height 6 cm. How many bottles are required to empty the bowl?",
+    "OP1": "72",
+    "OP2": "70",
+    "OP3": "68",
+    "OP4": "66",
+    "Answer": "1"
+  },
+  {
+    "SL": 21,
+    "Question": "Find the value of given expression.<br>\\([76 – \\{90 \\div 5 \\times (24 – 36 \\div 3) \\div 3\\}]\\)",
+    "OP1": "71.5",
+    "OP2": "75.5",
+    "OP3": "4",
+    "OP4": "77.5",
+    "Answer": "3"
+  },
+  {
+    "SL": 22,
+    "Question": "Products pass successively through the hands of three traders and each of them sells his goods at a profit of 30% of his cost price. If the last trader sold the products for Rs.300, then how much did the first trader pay for them?",
+    "OP1": "Rs.330.55 (approx)",
+    "OP2": "Rs.136.55 (approx)",
+    "OP3": "Rs.240.55 (approx)",
+    "OP4": "Rs.137.55 (approx)",
+    "Answer": "2"
+  },
+  {
+    "SL": 23,
+    "Question": "What is the total surface area of a pyramid whose base is a square with side 8 cm and height of the pyramid is 3 cm?",
+    "OP1": "169 \\(cm^2\\)",
+    "OP2": "121 \\(cm^2\\)",
+    "OP3": "144 \\(cm^2\\)",
+    "OP4": "184 \\(cm^2\\)",
+    "Answer": "3"
+  },
+  {
+    "SL": 24,
+    "Question": "The breadth 'b' of a room is twice its height and half of its length. Find the length of the longest diagonal of the room.",
+    "OP1": "\\(\\frac{\\sqrt{20}b}{2}\\)",
+    "OP2": "\\(\\frac{b}{2}\\)",
+    "OP3": "\\(\\frac{\\sqrt{21}b}{2}\\)",
+    "OP4": "\\(\\frac{\\sqrt{19}b}{2}\\)",
+    "Answer": "3"
+  },
+  {
+    "SL": 25,
+    "Question": "What is the simplified form of the expression \\((1 + x)(1 + x^2)(1 + x^4)(1 + x^8)(1 – x)\\)?",
+    "OP1": "\\(1 - x^{40}\\)",
+    "OP2": "\\(1 - x^{32}\\)",
+    "OP3": "\\(1 - x^{16}\\)",
+    "OP4": "\\(1 - x^{42}\\)",
+    "Answer": "3"
+  },
+  {
+    "SL": 26,
+    "Question": "If the areas of two similar triangles are in the ratio 196 : 625, what would be the ratio of the corresponding sides?",
+    "OP1": "14 : 25",
+    "OP2": "13 : 20",
+    "OP3": "14 : 20",
+    "OP4": "13 : 25",
+    "Answer": "1"
+  },
+  {
+    "SL": 27,
+    "Question": "A speaks the truth 5 out of 7 times and B speaks truth 8 out of 9 times. What is the probability that they contradict each other in stating the same fact?",
+    "OP1": "\\(\\frac{1}{7}\\)",
+    "OP2": "\\(\\frac{1}{9}\\)",
+    "OP3": "\\(\\frac{1}{4}\\)",
+    "OP4": "\\(\\frac{1}{3}\\)",
+    "Answer": "4"
+  },
+  {
+    "SL": 28,
+    "Question": "There are two inlet pipes A and B connected to a tank. A and B can fill the tank in 32 h and 28 h, respectively. If both the pipes are opened alternately for 1 h, starting with A, then in how much time (in hours, to nearest integer) will the tank be filled?",
+    "OP1": "22",
+    "OP2": "30",
+    "OP3": "36",
+    "OP4": "24",
+    "Answer": "2"
+  },
+  {
+    "SL": 29,
+    "Question": "Two candidates contested an election. One of them got 64% of the votes and won by 434 votes. What was the total number of votes polled?",
+    "OP1": "1550",
+    "OP2": "1345",
+    "OP3": "1680",
+    "OP4": "1684",
+    "Answer": "1"
+  },
+  {
+    "SL": 30,
+    "Question": "From the top of an upright pole 17.75 m high, the angle of elevation of the top of an upright tower was \\(60^\\circ\\). If the tower was 57.75 m tall, how far away (in m) from the foot of the pole was the foot of the tower?",
+    "OP1": "\\(40\\sqrt{3}\\)",
+    "OP2": "\\(\\frac{151\\sqrt{3}}{6}\\)",
+    "OP3": "\\(\\frac{77}{4\\sqrt{3}}\\)",
+    "OP4": "\\(\\frac{40\\sqrt{3}}{3}\\)",
+    "Answer": "4"
+  }
+]
